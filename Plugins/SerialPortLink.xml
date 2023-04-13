@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UI>
+  <LayoutControl ID="Main" _OrientationType="Vertical" LayoutMaxHeight="112">
+    <Button ID="OpenSerial" _Text ="连接" Type="NoLocalization" />
+    <Button ID="CloseSerial" _Text ="断开" Type="NoLocalization" />
+    <LayoutControl _OrientationType="Horizontal" >
+      <TextLable _Text="COM" Color="1,1,1,1" MaxHeight="32" Frame="true" Localization="false"
+              TextAlignment="Center"  FontWeight="Normal" FontStyle="Normal"></TextLable>
+      <TextEditor ID = "ComNum" _Text="1" LayoutPlaceholder="2" ></TextEditor>
+    </LayoutControl>
+    <LayoutControl _OrientationType="Horizontal" >
+      <TextLable _Text="波特率" Color="1,1,1,1" MaxHeight="32" Frame="true" Localization="false"
+              TextAlignment="Center"  FontWeight="Normal" FontStyle="Normal"></TextLable>
+      <TextEditor ID = "BaudRate" _Text="115200" LayoutPlaceholder="2" ></TextEditor>
+    </LayoutControl>
+  </LayoutControl>
+</UI>

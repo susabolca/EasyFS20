@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Plugin>
+  <Settings>
+  </Settings>
+  <Module>
+    <Node Name="FSUIPC">
+      <Port Name="Time String" Type="Out" ValueType="string" dwSize="9" Address="0C20" />
+      <!-- Pos./Attitude -->
+      <Port Name="Indicated Air Speed" Type="Out" ValueType="int" Address="02BC" />
+      <Port Name="MAG Heading" Type="Out" ValueType="double" Address="2B00" />
+      <Port Name="Indicated Altitude" Type="Out" ValueType="long" Address="3324" />
+      <Port Name="Vertical Speed" Type="Out" ValueType="int" Address="02C8" />
+      <!-- AutoPilot -->
+      <Port Name="AP Master Switch" Type="RW" ValueType="uint" Address="07BC" />
+      <Port Name="AP Air Speed Hold" Type="Out" ValueType="uint" Address="07DC" />
+      <Port Name="AP Air Speed Value" Type="Out" ValueType="ushort" Address="07E2" />
+      <Port Name="AP Altitude Hold" Type="Out" ValueType="uint" Address="07D0" />
+      <Port Name="AP Altitude Value (meter)" Type="RW" ValueType="int" Address="07D4" />
+      <Port Name="AP Heading Hold" Type="Out" ValueType="uint" Address="07C8" />
+      <Port Name="AP Heading Value" Type="RW" ValueType="ushort" Address="07CC" />
+      <Port Name="AP Mach Hold" Type="Out" ValueType="uint" Address="07E4" />
+      <Port Name="AP Mach Value" Type="Out" ValueType="uint" Address="07E8" />
+      <Port Name="AP V/S Hold" Type="Out" ValueType="uint" Address="07EC" />
+      <Port Name="AP V/S Value" Type="RW" ValueType="short" Address="07F2" />
+      <Port Name="AP Approach Hold" Type="Out" ValueType="uint" Address="0800" />
+      <Port Name="AP BackCourse Hold" Type="Out" ValueType="uint" Address="0804" />
+      <Port Name="AP Yaw Damper" Type="Out" ValueType="uint" Address="0808" />
+      <Port Name="AP TO/GA" Type="Out" ValueType="uint" Address="080C" />
+      <Port Name="AP Flight Director Active" Type="Out" ValueType="uint" Address="2EE0" />
+      <Port Name="AP Wing LVL" Type="Out" ValueType="uint" Address="07C0" />
+      <Port Name="AP Nav1 Hold" Type="Out" ValueType="uint" Address="07C4" />
+      <Port Name="AP FLC Hold" Type="Out" ValueType="u8" Address="0B49" />
+      <!-- Lights -->
+      <!-- 
+          0: Navigation
+          1: Beacon
+          2: Landing 
+          3: Taxi
+          4: Strobes
+          5: Instruments
+          6: Recongnition
+          7: Wing
+          8: Logo
+          9: Cabin
+        -->
+      <Port Name="Lights" Type="RW" ValueType="u16" Address="0D0C" />
+      <!-- Radio -->
+      <Port Name="COM1 Freq" Type="RW" ValueType="ushort" Address="034E" />
+      <Port Name="COM2 Freq" Type="RW" ValueType="ushort" Address="3118" />
+      <Port Name="COM1 STBY Freq" Type="Out" ValueType="ushort" Address="311A" />
+      <Port Name="COM2 STBY Freq" Type="Out" ValueType="ushort" Address="311C" />
+      <Port Name="NAV1 Freq" Type="RW" ValueType="ushort" Address="0350" />
+      <Port Name="NAV2 Freq" Type="RW" ValueType="ushort" Address="0352" />
+      <Port Name="NAV1 STBY Freq" Type="Out" ValueType="ushort" Address="311E" />
+      <Port Name="NAV2 STBY Freq" Type="Out" ValueType="ushort" Address="3120" />
+      <Port Name="ADF Freq" Type="Out" ValueType="ushort" Address="034C" />
+      <Port Name="ADF Extended Freq" Type="Out" ValueType="ushort" Address="0356" />
+      <Port Name="ADF STBY Freq" Type="Out" ValueType="ushort" Address="0284" />
+      <Port Name="ADF STBY Extended Freq" Type="Out" ValueType="ushort" Address="0286" />
+      <Port Name="XPND Transponder Code" Type="RW" ValueType="ushort" Address="0354" />
+      <!-- 0:off 1:Standby 2:Test 3:On 4:Alt 5:Gound -->
+      <Port Name="XPND Transponder State" Type="RW" ValueType="u8" Address="0B46" />
+      <Port Name="NAV1 OBS(CRS)" Type="Out" ValueType="short" Address="0C4E" />
+      <Port Name="NAV2 OBS(CRS)" Type="Out" ValueType="short" Address="0C5E" />
+      <!-- 
+          0: ADF1 sound
+          1: DME sound
+          2: Marker sound
+          3：NAV2 sound
+          4: NAV1 sound
+          5: COM Receive both
+          6: COM2 transmit
+          7: COM1 transmit
+       -->
+      <Port Name="Radio Sound Switches" Type="RW" ValueType="byte" Address="3122" />
+      <!-- Controls -->
+      <Port Name="Elevator Trim" Type="Out" ValueType="double" Address="2EA0" />
+      <Port Name="Aileron Trim" Type="Out" ValueType="double" Address="2EB0" />
+      <Port Name="Rudder Trim" Type="Out" ValueType="double" Address="2EC0" />
+      <Port Name="Flaps Handle Index" Type="RW" ValueType="u8" Address="0BFC" />
+      <!-- 0:Fullup -->
+      <!-- Brakes -->
+      <Port Name="Brake Parking Position" Type="RW" ValueType="u16" Address="0BC8" />
+      <Port Name="Land Gear Handle Position" Type="RW" ValueType="u32" Address="0BE8" />
+    </Node>
+  </Module>
+</Plugin>

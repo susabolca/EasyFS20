@@ -1,0 +1,584 @@
+<EasyJoy>
+  <UsbSetting Name="EasyJoy32 v4 b" VID="12596" PID="12600" BackLightBrightness="19" ColorOrder="2" HC165="True" maxADC="0" maxHall="0" maxPWM="0" maxPin="144" IdleColor="ColorRGBWave" DynamicSpeed="18" />
+  <AxisID ID0="48" ID1="49" ID2="50" ID3="51" ID4="52" ID5="53" ID6="54" ID7="55" />
+  <AdcList>
+    <Adc0 maxCC="5" maxCY="5" maxPC="10" />
+    <Adc1 maxCC="5" maxCY="5" maxPC="10" />
+    <Adc2 maxCC="5" maxCY="5" maxPC="10" />
+    <Adc3 maxCC="5" maxCY="5" maxPC="10" />
+    <Adc4 maxCC="5" maxCY="5" maxPC="10" />
+    <Adc5 maxCC="5" maxCY="5" maxPC="10" />
+    <Adc6 maxCC="5" maxCY="5" maxPC="10" />
+    <Adc7 maxCC="5" maxCY="5" maxPC="10" />
+    <Adc8 maxCC="5" maxCY="5" maxPC="10" />
+    <Adc9 maxCC="5" maxCY="5" maxPC="10" />
+  </AdcList>
+  <KeyBoard>
+    <Key0 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key1 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key2 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key3 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key4 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key5 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key6 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key7 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key8 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key9 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key10 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key11 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key12 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key13 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key14 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key15 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key16 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key17 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key18 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key19 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key20 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key21 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key22 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key23 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key24 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key25 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key26 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key27 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key28 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key29 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key30 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key31 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key32 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key33 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key34 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key35 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key36 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key37 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key38 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key39 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key40 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key41 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key42 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key43 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key44 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key45 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key46 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key47 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key48 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key49 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key50 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key51 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key52 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key53 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key54 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key55 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key56 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key57 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key58 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key59 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key60 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key61 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key62 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key63 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key64 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key65 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key66 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key67 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key68 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key69 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key70 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key71 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key72 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key73 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key74 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key75 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key76 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key77 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key78 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key79 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key80 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key81 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key82 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key83 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key84 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key85 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key86 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key87 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key88 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key89 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key90 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key91 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key92 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key93 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key94 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key95 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key96 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key97 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key98 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key99 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key100 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key101 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key102 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key103 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key104 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key105 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key106 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key107 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key108 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key109 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key110 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key111 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key112 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key113 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key114 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key115 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key116 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key117 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key118 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key119 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key120 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key121 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key122 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key123 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key124 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key125 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key126 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+    <Key127 Code="0" Function="0" CodeFN="0" FunctionFN="0" />
+  </KeyBoard>
+  <FormatList>
+    <Format0 Reverse="False" AutoRange="False" Calibration="True" Shift="0" minValue="0" midValue="2047" maxValue="4095" minDzone="0" midDzone="5" maxDzone="10" />
+    <Format1 Reverse="False" AutoRange="False" Calibration="True" Shift="0" minValue="0" midValue="2047" maxValue="4095" minDzone="0" midDzone="5" maxDzone="10" />
+    <Format2 Reverse="False" AutoRange="False" Calibration="False" Shift="0" minValue="0" midValue="2047" maxValue="4095" minDzone="10" midDzone="5" maxDzone="10" />
+    <Format3 Reverse="False" AutoRange="False" Calibration="False" Shift="0" minValue="0" midValue="2047" maxValue="4095" minDzone="10" midDzone="5" maxDzone="10" />
+    <Format4 Reverse="False" AutoRange="False" Calibration="False" Shift="0" minValue="0" midValue="2047" maxValue="4095" minDzone="10" midDzone="5" maxDzone="10" />
+    <Format5 Reverse="False" AutoRange="False" Calibration="False" Shift="0" minValue="0" midValue="2047" maxValue="4095" minDzone="10" midDzone="5" maxDzone="10" />
+    <Format6 Reverse="False" AutoRange="False" Calibration="False" Shift="0" minValue="0" midValue="2047" maxValue="4095" minDzone="10" midDzone="5" maxDzone="10" />
+    <Format7 Reverse="False" AutoRange="False" Calibration="False" Shift="0" minValue="0" midValue="2047" maxValue="4095" minDzone="10" midDzone="5" maxDzone="10" />
+    <Format8 Reverse="False" AutoRange="False" Calibration="False" Shift="0" minValue="0" midValue="2047" maxValue="4095" minDzone="10" midDzone="5" maxDzone="10" />
+    <Format9 Reverse="False" AutoRange="False" Calibration="False" Shift="0" minValue="0" midValue="2047" maxValue="4095" minDzone="10" midDzone="5" maxDzone="10" />
+    <Format10 Reverse="False" AutoRange="False" Calibration="False" Shift="0" minValue="0" midValue="2047" maxValue="4095" minDzone="10" midDzone="5" maxDzone="10" />
+    <Format11 Reverse="False" AutoRange="False" Calibration="False" Shift="0" minValue="0" midValue="2047" maxValue="4095" minDzone="10" midDzone="5" maxDzone="10" />
+    <Format12 Reverse="False" AutoRange="False" Calibration="False" Shift="0" minValue="0" midValue="2047" maxValue="4095" minDzone="10" midDzone="5" maxDzone="10" />
+    <Format13 Reverse="False" AutoRange="False" Calibration="False" Shift="0" minValue="0" midValue="2047" maxValue="4095" minDzone="10" midDzone="5" maxDzone="10" />
+    <Format14 Reverse="False" AutoRange="False" Calibration="False" Shift="0" minValue="0" midValue="2047" maxValue="4095" minDzone="10" midDzone="5" maxDzone="10" />
+    <Format15 Reverse="False" AutoRange="False" Calibration="False" Shift="0" minValue="0" midValue="2047" maxValue="4095" minDzone="10" midDzone="5" maxDzone="10" />
+    <Format16 Reverse="False" AutoRange="False" Calibration="False" Shift="0" minValue="0" midValue="2047" maxValue="4095" minDzone="10" midDzone="5" maxDzone="10" />
+    <Format17 Reverse="False" AutoRange="False" Calibration="False" Shift="0" minValue="0" midValue="2047" maxValue="4095" minDzone="10" midDzone="5" maxDzone="10" />
+    <Format18 Reverse="False" AutoRange="False" Calibration="False" Shift="0" minValue="0" midValue="2047" maxValue="4095" minDzone="10" midDzone="5" maxDzone="10" />
+    <Format19 Reverse="False" AutoRange="False" Calibration="False" Shift="0" minValue="0" midValue="2047" maxValue="4095" minDzone="10" midDzone="5" maxDzone="10" />
+  </FormatList>
+  <HatList>
+    <Hat0 Input0="0" Input1="1" Input2="2" Input3="3" />
+    <Hat1 Input0="0" Input1="1" Input2="2" Input3="3" />
+    <Hat2 Input0="0" Input1="1" Input2="2" Input3="3" />
+    <Hat3 Input0="0" Input1="1" Input2="2" Input3="3" />
+  </HatList>
+  <LedList>
+    <Led0 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led1 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led2 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led3 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led4 ControlType="LedNone" R="0" G="0" B="0" OpenR="253" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led5 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led6 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led7 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led8 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led9 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led10 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led11 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led12 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led13 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led14 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led15 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led16 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led17 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led18 ControlType="LedControl" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led19 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led20 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led21 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led22 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led23 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led24 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led25 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led26 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led27 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led28 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led29 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led30 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led31 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led32 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led33 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led34 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led35 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led36 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led37 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led38 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led39 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led40 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led41 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led42 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led43 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led44 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led45 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led46 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led47 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led48 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led49 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led50 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led51 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led52 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led53 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led54 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led55 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led56 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led57 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led58 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led59 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led60 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led61 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led62 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led63 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led64 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led65 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led66 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led67 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led68 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led69 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led70 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led71 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led72 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led73 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led74 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led75 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led76 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led77 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led78 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led79 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led80 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led81 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led82 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led83 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led84 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led85 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led86 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led87 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led88 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led89 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led90 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led91 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led92 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led93 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led94 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led95 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led96 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led97 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led98 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led99 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led100 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led101 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led102 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led103 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led104 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led105 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led106 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led107 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led108 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led109 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led110 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led111 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led112 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led113 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led114 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led115 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led116 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led117 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led118 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led119 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led120 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led121 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led122 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led123 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led124 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led125 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led126 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+    <Led127 ControlType="LedNone" R="0" G="0" B="0" OpenR="127" OpenG="127" OpenB="127" ClickMode="ColorNone" FnMode="ColorNone" Offset="0" />
+  </LedList>
+  <DeviceList>
+    <Device0 Type="MB_SoftEncode" inInversion="True" outType="Joystick" outInversion="False" outLed="False" encodeType="FourStep" inPort="30" inEnd="31" outPort="0" outCount="2" pulseCount="50" ledPort="0" ledCount="0" />
+    <Device1 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="False" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="14" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device2 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="False" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="7" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device3 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="False" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="7" />
+    <Device4 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="False" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="14" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device5 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="False" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="7" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device6 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="False" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="2" />
+    <Device7 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device8 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device9 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device10 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device11 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device12 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device13 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device14 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device15 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device16 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device17 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device18 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device19 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device20 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device21 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device22 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device23 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device24 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device25 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device26 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device27 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device28 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device29 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device30 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device31 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device32 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device33 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device34 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device35 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device36 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device37 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device38 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device39 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device40 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device41 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device42 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device43 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device44 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device45 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device46 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device47 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device48 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device49 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device50 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device51 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device52 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device53 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device54 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device55 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device56 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device57 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device58 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device59 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device60 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device61 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device62 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device63 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device64 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device65 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device66 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device67 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device68 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device69 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device70 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device71 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device72 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device73 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device74 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device75 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device76 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device77 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device78 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device79 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device80 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device81 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device82 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device83 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device84 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device85 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device86 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device87 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device88 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device89 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device90 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device91 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device92 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device93 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device94 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device95 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device96 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device97 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device98 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device99 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device100 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device101 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device102 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device103 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device104 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device105 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device106 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device107 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device108 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device109 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device110 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device111 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device112 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device113 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device114 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device115 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device116 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device117 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device118 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device119 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device120 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device121 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device122 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device123 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device124 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device125 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device126 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device127 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device128 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device129 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device130 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device131 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device132 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device133 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device134 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device135 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device136 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device137 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device138 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device139 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device140 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device141 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device142 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+    <Device143 Type="None" inInversion="True" outType="Joystick" outInversion="False" outLed="True" encodeType="Step" inPort="0" inEnd="0" outPort="0" outCount="1" pulseCount="50" ledPort="0" ledCount="1" />
+  </DeviceList>
+  <CustomList>
+    <Custom0 Type="OLED_128_64_SSD1306x3" rotateType="Rotate0" data="7" cs="10" clk="6" dc="9" rst="8" cs2="12" cs3="11" cs4="255" dataStart="40" dataCount="9">
+      <Font0 X="0" Y="0" LibIndex="0" Count="6" />
+      <Font1 X="0" Y="0" LibIndex="0" Count="6" />
+      <Font2 X="0" Y="0" LibIndex="0" Count="6" />
+      <Font3 X="0" Y="2" LibIndex="0" Count="6" />
+      <Font4 X="0" Y="2" LibIndex="0" Count="6" />
+      <Font5 X="0" Y="2" LibIndex="0" Count="6" />
+      <Font6 X="0" Y="4" LibIndex="0" Count="6" />
+      <Font7 X="0" Y="4" LibIndex="0" Count="6" />
+      <Font8 X="0" Y="4" LibIndex="0" Count="6" />
+    </Custom0>
+    <Custom1 Type="DT_Max7219" rotateType="Rotate0" data="13" cs="14" clk="15" dc="255" rst="255" cs2="255" cs3="255" cs4="255" dataStart="0" dataCount="5">
+      <Font0 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font1 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font2 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font3 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font4 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font5 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font6 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font7 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font8 X="0" Y="0" LibIndex="0" Count="1" />
+    </Custom1>
+    <Custom2 Type="NoneCustom" rotateType="Rotate0" data="255" cs="255" clk="255" dc="255" rst="255" cs2="255" cs3="255" cs4="255" dataStart="27" dataCount="8">
+      <Font0 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font1 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font2 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font3 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font4 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font5 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font6 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font7 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font8 X="0" Y="0" LibIndex="0" Count="1" />
+    </Custom2>
+    <Custom3 Type="NoneCustom" rotateType="Rotate0" data="0" cs="0" clk="0" dc="0" rst="0" cs2="0" cs3="0" cs4="0" dataStart="0" dataCount="0">
+      <Font0 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font1 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font2 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font3 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font4 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font5 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font6 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font7 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font8 X="0" Y="0" LibIndex="0" Count="1" />
+    </Custom3>
+    <Custom4 Type="NoneCustom" rotateType="Rotate0" data="0" cs="0" clk="0" dc="0" rst="0" cs2="0" cs3="0" cs4="0" dataStart="0" dataCount="0">
+      <Font0 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font1 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font2 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font3 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font4 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font5 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font6 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font7 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font8 X="0" Y="0" LibIndex="0" Count="1" />
+    </Custom4>
+    <Custom5 Type="NoneCustom" rotateType="Rotate0" data="0" cs="0" clk="0" dc="0" rst="0" cs2="0" cs3="0" cs4="0" dataStart="0" dataCount="0">
+      <Font0 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font1 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font2 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font3 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font4 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font5 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font6 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font7 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font8 X="0" Y="0" LibIndex="0" Count="1" />
+    </Custom5>
+    <Custom6 Type="NoneCustom" rotateType="Rotate0" data="0" cs="0" clk="0" dc="0" rst="0" cs2="0" cs3="0" cs4="0" dataStart="0" dataCount="0">
+      <Font0 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font1 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font2 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font3 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font4 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font5 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font6 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font7 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font8 X="0" Y="0" LibIndex="0" Count="1" />
+    </Custom6>
+    <Custom7 Type="NoneCustom" rotateType="Rotate0" data="0" cs="0" clk="0" dc="0" rst="0" cs2="0" cs3="0" cs4="0" dataStart="0" dataCount="0">
+      <Font0 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font1 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font2 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font3 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font4 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font5 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font6 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font7 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font8 X="0" Y="0" LibIndex="0" Count="1" />
+    </Custom7>
+    <Custom8 Type="NoneCustom" rotateType="Rotate0" data="0" cs="0" clk="0" dc="0" rst="0" cs2="0" cs3="0" cs4="0" dataStart="0" dataCount="0">
+      <Font0 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font1 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font2 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font3 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font4 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font5 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font6 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font7 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font8 X="0" Y="0" LibIndex="0" Count="1" />
+    </Custom8>
+    <Custom9 Type="NoneCustom" rotateType="Rotate0" data="0" cs="0" clk="0" dc="0" rst="0" cs2="0" cs3="0" cs4="0" dataStart="0" dataCount="0">
+      <Font0 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font1 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font2 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font3 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font4 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font5 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font6 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font7 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font8 X="0" Y="0" LibIndex="0" Count="1" />
+    </Custom9>
+    <Custom10 Type="NoneCustom" rotateType="Rotate0" data="0" cs="0" clk="0" dc="0" rst="0" cs2="0" cs3="0" cs4="0" dataStart="0" dataCount="0">
+      <Font0 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font1 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font2 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font3 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font4 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font5 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font6 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font7 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font8 X="0" Y="0" LibIndex="0" Count="1" />
+    </Custom10>
+    <Custom11 Type="NoneCustom" rotateType="Rotate0" data="0" cs="0" clk="0" dc="0" rst="0" cs2="0" cs3="0" cs4="0" dataStart="0" dataCount="0">
+      <Font0 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font1 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font2 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font3 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font4 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font5 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font6 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font7 X="0" Y="0" LibIndex="0" Count="1" />
+      <Font8 X="0" Y="0" LibIndex="0" Count="1" />
+    </Custom11>
+  </CustomList>
+</EasyJoy>

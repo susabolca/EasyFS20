@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Plugin>
+  <Settings>
+    <TextEditor ID="xpIP" Value="127.0.0.1" />
+    <TextEditor ID="xpInPort" Value="9089" />
+    <TextEditor ID="xpOutPort" Value="49000" />
+  </Settings>
+  <Module>
+    <Node Name="Test X - PLane 11">
+      <Port Name="Out Heading" Type="Out" ValueType="Float" DataRef="sim/cockpit/autopilot/heading" />
+      <Port Name="Out Airspeed" Type="Out" ValueType="Float" DataRef="sim/cockpit/autopilot/airspeed" />
+      <Port Name="Cmd FlapsUp" Type="Command" Command="sim/flight_controls/flaps_up" />
+      <Port Name="Cmd FlapsDown" Type="Command" Command="sim/flight_controls/flaps_down" />
+      <Port Name="In Heading" Type="In" ValueType="Float" DataRef="sim/cockpit/autopilot/heading" />
+      <Port Name="In Airspeed" Type="In" ValueType="Float" DataRef="sim/cockpit/autopilot/airspeed" />
+    </Node>
+  </Module>
+</Plugin>

@@ -1,0 +1,4159 @@
+<Save>
+  <Offset X="427.8458" Y="268.9281" Scaling="0.5999999" />
+  <nodeList>
+    <nl-A10cILS>
+      <SaveNode0 sourceOffsetX="310" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode0>
+      <SaveNode1 sourceOffsetX="470" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode1>
+      <SaveNode2 sourceOffsetX="630" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode2>
+      <SaveNode3 sourceOffsetX="790" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode3>
+      <SaveNode4 sourceOffsetX="950" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode4>
+      <SaveNode5 sourceOffsetX="1110" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode5>
+      <SaveNode6 sourceOffsetX="1270" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode6>
+      <SaveNode7 sourceOffsetX="1430" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode7>
+      <SaveNode8 sourceOffsetX="1590" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode8>
+      <SaveNode9 sourceOffsetX="1750" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode9>
+      <SaveNode10 sourceOffsetX="1910" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode10>
+      <SaveNode11 sourceOffsetX="2070" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode11>
+      <SaveNode12 sourceOffsetX="2230" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode12>
+      <SaveNode13 sourceOffsetX="2390" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode13>
+      <SaveNode14 sourceOffsetX="2550" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode14>
+      <SaveNode15 sourceOffsetX="2710" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode15>
+    </nl-A10cILS>
+    <nl-A10cVHF>
+      <SaveNode0 sourceOffsetX="2870" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode0>
+      <SaveNode1 sourceOffsetX="3030" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode1>
+      <SaveNode2 sourceOffsetX="3190" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode2>
+      <SaveNode3 sourceOffsetX="3350" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode3>
+      <SaveNode4 sourceOffsetX="3510" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode4>
+      <SaveNode5 sourceOffsetX="3670" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode5>
+      <SaveNode6 sourceOffsetX="3830" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode6>
+      <SaveNode7 sourceOffsetX="3990" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode7>
+      <SaveNode8 sourceOffsetX="4150" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode8>
+      <SaveNode9 sourceOffsetX="4310" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode9>
+      <SaveNode10 sourceOffsetX="4470" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode10>
+      <SaveNode11 sourceOffsetX="4630" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode11>
+      <SaveNode12 sourceOffsetX="4790" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode12>
+      <SaveNode13 sourceOffsetX="4950" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode13>
+      <SaveNode14 sourceOffsetX="5110" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode14>
+      <SaveNode15 sourceOffsetX="5270" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode15>
+    </nl-A10cVHF>
+    <nl-Char2String>
+      <SaveNode0 sourceOffsetX="5430" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+        </portList>
+      </SaveNode0>
+      <SaveNode1 sourceOffsetX="5590" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+        </portList>
+      </SaveNode1>
+      <SaveNode2 sourceOffsetX="5750" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+        </portList>
+      </SaveNode2>
+      <SaveNode3 sourceOffsetX="5910" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+        </portList>
+      </SaveNode3>
+      <SaveNode4 sourceOffsetX="6070" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+        </portList>
+      </SaveNode4>
+      <SaveNode5 sourceOffsetX="6230" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+        </portList>
+      </SaveNode5>
+      <SaveNode6 sourceOffsetX="6390" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+        </portList>
+      </SaveNode6>
+      <SaveNode7 sourceOffsetX="6550" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+        </portList>
+      </SaveNode7>
+      <SaveNode8 sourceOffsetX="6710" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+        </portList>
+      </SaveNode8>
+      <SaveNode9 sourceOffsetX="6870" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+        </portList>
+      </SaveNode9>
+      <SaveNode10 sourceOffsetX="7030" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+        </portList>
+      </SaveNode10>
+      <SaveNode11 sourceOffsetX="7190" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+        </portList>
+      </SaveNode11>
+      <SaveNode12 sourceOffsetX="7350" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+        </portList>
+      </SaveNode12>
+      <SaveNode13 sourceOffsetX="7510" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+        </portList>
+      </SaveNode13>
+      <SaveNode14 sourceOffsetX="7670" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+        </portList>
+      </SaveNode14>
+      <SaveNode15 sourceOffsetX="7830" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+        </portList>
+      </SaveNode15>
+    </nl-Char2String>
+    <nl-F18_UFC_Text>
+      <SaveNode0 sourceOffsetX="7990" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode0>
+      <SaveNode1 sourceOffsetX="8150" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode1>
+      <SaveNode2 sourceOffsetX="8310" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode2>
+      <SaveNode3 sourceOffsetX="8470" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode3>
+      <SaveNode4 sourceOffsetX="8630" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode4>
+      <SaveNode5 sourceOffsetX="8790" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode5>
+      <SaveNode6 sourceOffsetX="8950" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode6>
+      <SaveNode7 sourceOffsetX="9110" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode7>
+      <SaveNode8 sourceOffsetX="9270" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode8>
+      <SaveNode9 sourceOffsetX="9430" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode9>
+      <SaveNode10 sourceOffsetX="9590" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode10>
+      <SaveNode11 sourceOffsetX="9750" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode11>
+      <SaveNode12 sourceOffsetX="9910" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode12>
+      <SaveNode13 sourceOffsetX="10070" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode13>
+      <SaveNode14 sourceOffsetX="10230" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode14>
+      <SaveNode15 sourceOffsetX="10390" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode15>
+    </nl-F18_UFC_Text>
+    <nl-FloatPlus>
+      <SaveNode0 sourceOffsetX="0" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode0>
+      <SaveNode1 sourceOffsetX="146.1539" sourceOffsetY="136.9231">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode1>
+      <SaveNode2 sourceOffsetX="675.3847" sourceOffsetY="666.1539">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode2>
+      <SaveNode3 sourceOffsetX="11030" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode3>
+      <SaveNode4 sourceOffsetX="11190" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode4>
+      <SaveNode5 sourceOffsetX="11350" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode5>
+      <SaveNode6 sourceOffsetX="11510" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode6>
+      <SaveNode7 sourceOffsetX="11670" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode7>
+      <SaveNode8 sourceOffsetX="11830" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode8>
+      <SaveNode9 sourceOffsetX="11990" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode9>
+      <SaveNode10 sourceOffsetX="12150" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode10>
+      <SaveNode11 sourceOffsetX="12310" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode11>
+      <SaveNode12 sourceOffsetX="12470" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode12>
+      <SaveNode13 sourceOffsetX="12630" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode13>
+      <SaveNode14 sourceOffsetX="12790" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode14>
+      <SaveNode15 sourceOffsetX="12950" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode15>
+    </nl-FloatPlus>
+    <nl-Max7219TransformA>
+      <SaveNode0 sourceOffsetX="13110" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode0>
+      <SaveNode1 sourceOffsetX="13312" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode1>
+      <SaveNode2 sourceOffsetX="13515" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode2>
+      <SaveNode3 sourceOffsetX="13717" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode3>
+      <SaveNode4 sourceOffsetX="13920" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode4>
+      <SaveNode5 sourceOffsetX="14122" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode5>
+      <SaveNode6 sourceOffsetX="14325" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode6>
+      <SaveNode7 sourceOffsetX="14528" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode7>
+      <SaveNode8 sourceOffsetX="14730" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode8>
+      <SaveNode9 sourceOffsetX="14933" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode9>
+      <SaveNode10 sourceOffsetX="15135" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode10>
+      <SaveNode11 sourceOffsetX="15338" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode11>
+      <SaveNode12 sourceOffsetX="15541" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode12>
+      <SaveNode13 sourceOffsetX="15743" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode13>
+      <SaveNode14 sourceOffsetX="15946" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode14>
+      <SaveNode15 sourceOffsetX="16148" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode15>
+    </nl-Max7219TransformA>
+    <nl-Max7219TransformB>
+      <SaveNode0 sourceOffsetX="877.043" sourceOffsetY="419.021">
+        <portList>
+          <SavePort0>
+            <sp-FS202009 PluginID="FS2020" NodeIndex="0" PortIndex="9" />
+          </SavePort0>
+          <SavePort1 />
+        </portList>
+      </SaveNode0>
+      <SaveNode1 sourceOffsetX="827.7523" sourceOffsetY="194.9052">
+        <portList>
+          <SavePort0>
+            <sp-FS202007 PluginID="FS2020" NodeIndex="0" PortIndex="7" />
+          </SavePort0>
+          <SavePort1 />
+        </portList>
+      </SaveNode1>
+      <SaveNode2 sourceOffsetX="0" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode2>
+      <SaveNode3 sourceOffsetX="16956" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode3>
+      <SaveNode4 sourceOffsetX="17157" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode4>
+      <SaveNode5 sourceOffsetX="17359" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode5>
+      <SaveNode6 sourceOffsetX="17560" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode6>
+      <SaveNode7 sourceOffsetX="17762" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode7>
+      <SaveNode8 sourceOffsetX="17963" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode8>
+      <SaveNode9 sourceOffsetX="18165" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode9>
+      <SaveNode10 sourceOffsetX="18366" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode10>
+      <SaveNode11 sourceOffsetX="18568" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode11>
+      <SaveNode12 sourceOffsetX="18769" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode12>
+      <SaveNode13 sourceOffsetX="18971" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode13>
+      <SaveNode14 sourceOffsetX="19172" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode14>
+      <SaveNode15 sourceOffsetX="19374" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode15>
+    </nl-Max7219TransformB>
+    <nl-Max7219TransformC>
+      <SaveNode0 sourceOffsetX="19575" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode0>
+      <SaveNode1 sourceOffsetX="19778" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode1>
+      <SaveNode2 sourceOffsetX="19980" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode2>
+      <SaveNode3 sourceOffsetX="20182" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode3>
+      <SaveNode4 sourceOffsetX="20384" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode4>
+      <SaveNode5 sourceOffsetX="20586" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode5>
+      <SaveNode6 sourceOffsetX="20788" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode6>
+      <SaveNode7 sourceOffsetX="20990" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode7>
+      <SaveNode8 sourceOffsetX="21192" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode8>
+      <SaveNode9 sourceOffsetX="21394" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode9>
+      <SaveNode10 sourceOffsetX="21596" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode10>
+      <SaveNode11 sourceOffsetX="21799" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode11>
+      <SaveNode12 sourceOffsetX="22001" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode12>
+      <SaveNode13 sourceOffsetX="22203" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode13>
+      <SaveNode14 sourceOffsetX="22405" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode14>
+      <SaveNode15 sourceOffsetX="22607" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode15>
+    </nl-Max7219TransformC>
+    <nl-Max7219TransformD>
+      <SaveNode0 sourceOffsetX="22809" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode0>
+      <SaveNode1 sourceOffsetX="23013" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode1>
+      <SaveNode2 sourceOffsetX="23216" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode2>
+      <SaveNode3 sourceOffsetX="23419" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode3>
+      <SaveNode4 sourceOffsetX="23623" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode4>
+      <SaveNode5 sourceOffsetX="23826" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode5>
+      <SaveNode6 sourceOffsetX="24030" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode6>
+      <SaveNode7 sourceOffsetX="24233" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode7>
+      <SaveNode8 sourceOffsetX="24436" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode8>
+      <SaveNode9 sourceOffsetX="24640" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode9>
+      <SaveNode10 sourceOffsetX="24843" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode10>
+      <SaveNode11 sourceOffsetX="25047" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode11>
+      <SaveNode12 sourceOffsetX="25250" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode12>
+      <SaveNode13 sourceOffsetX="25453" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode13>
+      <SaveNode14 sourceOffsetX="25657" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode14>
+      <SaveNode15 sourceOffsetX="25860" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode15>
+    </nl-Max7219TransformD>
+    <nl-PreciseDecimal>
+      <SaveNode0 sourceOffsetX="26064" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode0>
+      <SaveNode1 sourceOffsetX="26228" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode1>
+      <SaveNode2 sourceOffsetX="26391" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode2>
+      <SaveNode3 sourceOffsetX="26555" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode3>
+      <SaveNode4 sourceOffsetX="26719" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode4>
+      <SaveNode5 sourceOffsetX="26883" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode5>
+      <SaveNode6 sourceOffsetX="27047" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode6>
+      <SaveNode7 sourceOffsetX="27211" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode7>
+      <SaveNode8 sourceOffsetX="27375" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode8>
+      <SaveNode9 sourceOffsetX="27539" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode9>
+      <SaveNode10 sourceOffsetX="27703" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode10>
+      <SaveNode11 sourceOffsetX="27867" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode11>
+      <SaveNode12 sourceOffsetX="28031" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode12>
+      <SaveNode13 sourceOffsetX="28195" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode13>
+      <SaveNode14 sourceOffsetX="28358" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode14>
+      <SaveNode15 sourceOffsetX="28522" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode15>
+    </nl-PreciseDecimal>
+    <nl-String2Char>
+      <SaveNode0 sourceOffsetX="28686" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+        </portList>
+      </SaveNode0>
+      <SaveNode1 sourceOffsetX="28846" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+        </portList>
+      </SaveNode1>
+      <SaveNode2 sourceOffsetX="29006" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+        </portList>
+      </SaveNode2>
+      <SaveNode3 sourceOffsetX="29166" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+        </portList>
+      </SaveNode3>
+      <SaveNode4 sourceOffsetX="29326" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+        </portList>
+      </SaveNode4>
+      <SaveNode5 sourceOffsetX="29486" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+        </portList>
+      </SaveNode5>
+      <SaveNode6 sourceOffsetX="29646" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+        </portList>
+      </SaveNode6>
+      <SaveNode7 sourceOffsetX="29806" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+        </portList>
+      </SaveNode7>
+      <SaveNode8 sourceOffsetX="29966" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+        </portList>
+      </SaveNode8>
+      <SaveNode9 sourceOffsetX="30126" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+        </portList>
+      </SaveNode9>
+      <SaveNode10 sourceOffsetX="30286" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+        </portList>
+      </SaveNode10>
+      <SaveNode11 sourceOffsetX="30446" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+        </portList>
+      </SaveNode11>
+      <SaveNode12 sourceOffsetX="30606" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+        </portList>
+      </SaveNode12>
+      <SaveNode13 sourceOffsetX="30766" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+        </portList>
+      </SaveNode13>
+      <SaveNode14 sourceOffsetX="30926" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+        </portList>
+      </SaveNode14>
+      <SaveNode15 sourceOffsetX="31086" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+        </portList>
+      </SaveNode15>
+    </nl-String2Char>
+    <nl-StringSwitch>
+      <SaveNode0 sourceOffsetX="31246" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+        </portList>
+      </SaveNode0>
+      <SaveNode1 sourceOffsetX="31406" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+        </portList>
+      </SaveNode1>
+      <SaveNode2 sourceOffsetX="31566" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+        </portList>
+      </SaveNode2>
+      <SaveNode3 sourceOffsetX="31726" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+        </portList>
+      </SaveNode3>
+      <SaveNode4 sourceOffsetX="31886" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+        </portList>
+      </SaveNode4>
+      <SaveNode5 sourceOffsetX="32046" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+        </portList>
+      </SaveNode5>
+      <SaveNode6 sourceOffsetX="32206" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+        </portList>
+      </SaveNode6>
+      <SaveNode7 sourceOffsetX="32366" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+        </portList>
+      </SaveNode7>
+      <SaveNode8 sourceOffsetX="32526" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+        </portList>
+      </SaveNode8>
+      <SaveNode9 sourceOffsetX="32686" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+        </portList>
+      </SaveNode9>
+      <SaveNode10 sourceOffsetX="32846" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+        </portList>
+      </SaveNode10>
+      <SaveNode11 sourceOffsetX="33006" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+        </portList>
+      </SaveNode11>
+      <SaveNode12 sourceOffsetX="33166" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+        </portList>
+      </SaveNode12>
+      <SaveNode13 sourceOffsetX="33326" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+        </portList>
+      </SaveNode13>
+      <SaveNode14 sourceOffsetX="33486" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+        </portList>
+      </SaveNode14>
+      <SaveNode15 sourceOffsetX="33646" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+        </portList>
+      </SaveNode15>
+    </nl-StringSwitch>
+    <nl-APALT>
+      <SaveNode0 sourceOffsetX="33806" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode0>
+      <SaveNode1 sourceOffsetX="33995" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode1>
+      <SaveNode2 sourceOffsetX="34183" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode2>
+      <SaveNode3 sourceOffsetX="34372" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode3>
+      <SaveNode4 sourceOffsetX="34560" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode4>
+      <SaveNode5 sourceOffsetX="34749" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode5>
+      <SaveNode6 sourceOffsetX="34937" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode6>
+      <SaveNode7 sourceOffsetX="35126" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode7>
+      <SaveNode8 sourceOffsetX="35314" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode8>
+      <SaveNode9 sourceOffsetX="35503" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode9>
+      <SaveNode10 sourceOffsetX="35691" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode10>
+      <SaveNode11 sourceOffsetX="35880" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode11>
+      <SaveNode12 sourceOffsetX="36068" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode12>
+      <SaveNode13 sourceOffsetX="36257" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode13>
+      <SaveNode14 sourceOffsetX="36445" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode14>
+      <SaveNode15 sourceOffsetX="36634" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode15>
+    </nl-APALT>
+    <nl-APHDG>
+      <SaveNode0 sourceOffsetX="36822" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode0>
+      <SaveNode1 sourceOffsetX="37056" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode1>
+      <SaveNode2 sourceOffsetX="37289" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode2>
+      <SaveNode3 sourceOffsetX="37523" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode3>
+      <SaveNode4 sourceOffsetX="37756" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode4>
+      <SaveNode5 sourceOffsetX="37990" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode5>
+      <SaveNode6 sourceOffsetX="38223" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode6>
+      <SaveNode7 sourceOffsetX="38456" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode7>
+      <SaveNode8 sourceOffsetX="38690" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode8>
+      <SaveNode9 sourceOffsetX="38923" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode9>
+      <SaveNode10 sourceOffsetX="39157" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode10>
+      <SaveNode11 sourceOffsetX="39390" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode11>
+      <SaveNode12 sourceOffsetX="39624" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode12>
+      <SaveNode13 sourceOffsetX="39857" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode13>
+      <SaveNode14 sourceOffsetX="40091" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode14>
+      <SaveNode15 sourceOffsetX="40324" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode15>
+    </nl-APHDG>
+    <nl-APVS>
+      <SaveNode0 sourceOffsetX="40558" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode0>
+      <SaveNode1 sourceOffsetX="40718" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode1>
+      <SaveNode2 sourceOffsetX="40878" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode2>
+      <SaveNode3 sourceOffsetX="41038" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode3>
+      <SaveNode4 sourceOffsetX="41198" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode4>
+      <SaveNode5 sourceOffsetX="41358" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode5>
+      <SaveNode6 sourceOffsetX="41518" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode6>
+      <SaveNode7 sourceOffsetX="41678" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode7>
+      <SaveNode8 sourceOffsetX="41838" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode8>
+      <SaveNode9 sourceOffsetX="41998" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode9>
+      <SaveNode10 sourceOffsetX="42158" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode10>
+      <SaveNode11 sourceOffsetX="42318" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode11>
+      <SaveNode12 sourceOffsetX="42478" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode12>
+      <SaveNode13 sourceOffsetX="42638" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode13>
+      <SaveNode14 sourceOffsetX="42798" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode14>
+      <SaveNode15 sourceOffsetX="42958" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode15>
+    </nl-APVS>
+    <nl-Bcd2Str>
+      <SaveNode0 sourceOffsetX="43118" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode0>
+      <SaveNode1 sourceOffsetX="43278" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode1>
+      <SaveNode2 sourceOffsetX="43438" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode2>
+      <SaveNode3 sourceOffsetX="43598" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode3>
+      <SaveNode4 sourceOffsetX="43758" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode4>
+      <SaveNode5 sourceOffsetX="43918" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode5>
+      <SaveNode6 sourceOffsetX="44078" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode6>
+      <SaveNode7 sourceOffsetX="44238" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode7>
+      <SaveNode8 sourceOffsetX="44398" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode8>
+      <SaveNode9 sourceOffsetX="44558" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode9>
+      <SaveNode10 sourceOffsetX="44718" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode10>
+      <SaveNode11 sourceOffsetX="44878" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode11>
+      <SaveNode12 sourceOffsetX="45038" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode12>
+      <SaveNode13 sourceOffsetX="45198" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode13>
+      <SaveNode14 sourceOffsetX="45358" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode14>
+      <SaveNode15 sourceOffsetX="45518" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode15>
+    </nl-Bcd2Str>
+    <nl-Encoder10>
+      <SaveNode0 sourceOffsetX="45678" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode0>
+      <SaveNode1 sourceOffsetX="45838" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode1>
+      <SaveNode2 sourceOffsetX="45998" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode2>
+      <SaveNode3 sourceOffsetX="46158" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode3>
+      <SaveNode4 sourceOffsetX="46318" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode4>
+      <SaveNode5 sourceOffsetX="46478" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode5>
+      <SaveNode6 sourceOffsetX="46638" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode6>
+      <SaveNode7 sourceOffsetX="46798" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode7>
+      <SaveNode8 sourceOffsetX="46958" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode8>
+      <SaveNode9 sourceOffsetX="47118" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode9>
+      <SaveNode10 sourceOffsetX="47278" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode10>
+      <SaveNode11 sourceOffsetX="47438" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode11>
+      <SaveNode12 sourceOffsetX="47598" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode12>
+      <SaveNode13 sourceOffsetX="47758" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode13>
+      <SaveNode14 sourceOffsetX="47918" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode14>
+      <SaveNode15 sourceOffsetX="48078" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode15>
+    </nl-Encoder10>
+    <nl-EncoderRev>
+      <SaveNode0 sourceOffsetX="48238" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode0>
+      <SaveNode1 sourceOffsetX="48398" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode1>
+      <SaveNode2 sourceOffsetX="48558" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode2>
+      <SaveNode3 sourceOffsetX="48718" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode3>
+      <SaveNode4 sourceOffsetX="48878" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode4>
+      <SaveNode5 sourceOffsetX="49038" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode5>
+      <SaveNode6 sourceOffsetX="49198" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode6>
+      <SaveNode7 sourceOffsetX="49358" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode7>
+      <SaveNode8 sourceOffsetX="49518" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode8>
+      <SaveNode9 sourceOffsetX="49678" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode9>
+      <SaveNode10 sourceOffsetX="49838" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode10>
+      <SaveNode11 sourceOffsetX="49998" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode11>
+      <SaveNode12 sourceOffsetX="50158" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode12>
+      <SaveNode13 sourceOffsetX="50318" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode13>
+      <SaveNode14 sourceOffsetX="50478" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode14>
+      <SaveNode15 sourceOffsetX="50638" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode15>
+    </nl-EncoderRev>
+    <nl-EncoderSlow>
+      <SaveNode0 sourceOffsetX="50798" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode0>
+      <SaveNode1 sourceOffsetX="50958" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode1>
+      <SaveNode2 sourceOffsetX="51118" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode2>
+      <SaveNode3 sourceOffsetX="51278" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode3>
+      <SaveNode4 sourceOffsetX="51438" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode4>
+      <SaveNode5 sourceOffsetX="51598" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode5>
+      <SaveNode6 sourceOffsetX="51758" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode6>
+      <SaveNode7 sourceOffsetX="51918" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode7>
+      <SaveNode8 sourceOffsetX="52078" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode8>
+      <SaveNode9 sourceOffsetX="52238" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode9>
+      <SaveNode10 sourceOffsetX="52398" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode10>
+      <SaveNode11 sourceOffsetX="52558" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode11>
+      <SaveNode12 sourceOffsetX="52718" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode12>
+      <SaveNode13 sourceOffsetX="52878" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode13>
+      <SaveNode14 sourceOffsetX="53038" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode14>
+      <SaveNode15 sourceOffsetX="53198" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode15>
+    </nl-EncoderSlow>
+    <nl-FastEncoder10>
+      <SaveNode0 sourceOffsetX="53358" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode0>
+      <SaveNode1 sourceOffsetX="53518" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode1>
+      <SaveNode2 sourceOffsetX="53679" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode2>
+      <SaveNode3 sourceOffsetX="53840" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode3>
+      <SaveNode4 sourceOffsetX="54001" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode4>
+      <SaveNode5 sourceOffsetX="54161" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode5>
+      <SaveNode6 sourceOffsetX="54322" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode6>
+      <SaveNode7 sourceOffsetX="54483" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode7>
+      <SaveNode8 sourceOffsetX="54644" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode8>
+      <SaveNode9 sourceOffsetX="54804" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode9>
+      <SaveNode10 sourceOffsetX="54965" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode10>
+      <SaveNode11 sourceOffsetX="55126" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode11>
+      <SaveNode12 sourceOffsetX="55287" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode12>
+      <SaveNode13 sourceOffsetX="55447" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode13>
+      <SaveNode14 sourceOffsetX="55608" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode14>
+      <SaveNode15 sourceOffsetX="55769" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode15>
+    </nl-FastEncoder10>
+    <nl-FastEncoder2>
+      <SaveNode0 sourceOffsetX="55929" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode0>
+      <SaveNode1 sourceOffsetX="56089" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode1>
+      <SaveNode2 sourceOffsetX="56249" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode2>
+      <SaveNode3 sourceOffsetX="56409" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode3>
+      <SaveNode4 sourceOffsetX="56569" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode4>
+      <SaveNode5 sourceOffsetX="56729" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode5>
+      <SaveNode6 sourceOffsetX="56889" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode6>
+      <SaveNode7 sourceOffsetX="57049" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode7>
+      <SaveNode8 sourceOffsetX="57209" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode8>
+      <SaveNode9 sourceOffsetX="57369" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode9>
+      <SaveNode10 sourceOffsetX="57529" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode10>
+      <SaveNode11 sourceOffsetX="57689" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode11>
+      <SaveNode12 sourceOffsetX="57849" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode12>
+      <SaveNode13 sourceOffsetX="58009" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode13>
+      <SaveNode14 sourceOffsetX="58169" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode14>
+      <SaveNode15 sourceOffsetX="58329" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode15>
+    </nl-FastEncoder2>
+    <nl-FastEncoder5>
+      <SaveNode0 sourceOffsetX="58489" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode0>
+      <SaveNode1 sourceOffsetX="58649" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode1>
+      <SaveNode2 sourceOffsetX="58809" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode2>
+      <SaveNode3 sourceOffsetX="58969" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode3>
+      <SaveNode4 sourceOffsetX="59129" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode4>
+      <SaveNode5 sourceOffsetX="59289" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode5>
+      <SaveNode6 sourceOffsetX="59449" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode6>
+      <SaveNode7 sourceOffsetX="59609" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode7>
+      <SaveNode8 sourceOffsetX="59769" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode8>
+      <SaveNode9 sourceOffsetX="59929" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode9>
+      <SaveNode10 sourceOffsetX="60089" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode10>
+      <SaveNode11 sourceOffsetX="60249" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode11>
+      <SaveNode12 sourceOffsetX="60409" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode12>
+      <SaveNode13 sourceOffsetX="60569" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode13>
+      <SaveNode14 sourceOffsetX="60729" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode14>
+      <SaveNode15 sourceOffsetX="60889" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+        </portList>
+      </SaveNode15>
+    </nl-FastEncoder5>
+    <nl-FS2020>
+      <SaveNode0 sourceOffsetX="522.9671" sourceOffsetY="-73.29668">
+        <portList>
+          <SavePort0>
+            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA01 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="1" />
+          </SavePort0>
+          <SavePort1 />
+          <SavePort2>
+            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA02 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="2" />
+          </SavePort2>
+          <SavePort3 />
+          <SavePort4>
+            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA03 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="3" />
+          </SavePort4>
+          <SavePort5 />
+          <SavePort6>
+            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA034 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="34" />
+          </SavePort6>
+          <SavePort7 />
+          <SavePort8>
+            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA028 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="28" />
+          </SavePort8>
+          <SavePort9 />
+          <SavePort10>
+            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA048 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="48" />
+          </SavePort10>
+          <SavePort11 />
+          <SavePort12>
+            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA049 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="49" />
+          </SavePort12>
+          <SavePort13 />
+          <SavePort14>
+            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA050 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="50" />
+          </SavePort14>
+          <SavePort15 />
+          <SavePort16>
+            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA013 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="13" />
+          </SavePort16>
+          <SavePort17 />
+          <SavePort18>
+            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA010 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="10" />
+          </SavePort18>
+          <SavePort19 />
+          <SavePort20 />
+          <SavePort21 />
+        </portList>
+      </SaveNode0>
+      <SaveNode1 sourceOffsetX="61236" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+          <SavePort18 />
+          <SavePort19 />
+          <SavePort20 />
+          <SavePort21 />
+        </portList>
+      </SaveNode1>
+      <SaveNode2 sourceOffsetX="61422" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+          <SavePort18 />
+          <SavePort19 />
+          <SavePort20 />
+          <SavePort21 />
+        </portList>
+      </SaveNode2>
+      <SaveNode3 sourceOffsetX="61608" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+          <SavePort18 />
+          <SavePort19 />
+          <SavePort20 />
+          <SavePort21 />
+        </portList>
+      </SaveNode3>
+      <SaveNode4 sourceOffsetX="61795" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+          <SavePort18 />
+          <SavePort19 />
+          <SavePort20 />
+          <SavePort21 />
+        </portList>
+      </SaveNode4>
+      <SaveNode5 sourceOffsetX="61981" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+          <SavePort18 />
+          <SavePort19 />
+          <SavePort20 />
+          <SavePort21 />
+        </portList>
+      </SaveNode5>
+      <SaveNode6 sourceOffsetX="62167" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+          <SavePort18 />
+          <SavePort19 />
+          <SavePort20 />
+          <SavePort21 />
+        </portList>
+      </SaveNode6>
+      <SaveNode7 sourceOffsetX="62354" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+          <SavePort18 />
+          <SavePort19 />
+          <SavePort20 />
+          <SavePort21 />
+        </portList>
+      </SaveNode7>
+      <SaveNode8 sourceOffsetX="62540" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+          <SavePort18 />
+          <SavePort19 />
+          <SavePort20 />
+          <SavePort21 />
+        </portList>
+      </SaveNode8>
+      <SaveNode9 sourceOffsetX="62726" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+          <SavePort18 />
+          <SavePort19 />
+          <SavePort20 />
+          <SavePort21 />
+        </portList>
+      </SaveNode9>
+      <SaveNode10 sourceOffsetX="62913" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+          <SavePort18 />
+          <SavePort19 />
+          <SavePort20 />
+          <SavePort21 />
+        </portList>
+      </SaveNode10>
+      <SaveNode11 sourceOffsetX="63099" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+          <SavePort18 />
+          <SavePort19 />
+          <SavePort20 />
+          <SavePort21 />
+        </portList>
+      </SaveNode11>
+      <SaveNode12 sourceOffsetX="63285" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+          <SavePort18 />
+          <SavePort19 />
+          <SavePort20 />
+          <SavePort21 />
+        </portList>
+      </SaveNode12>
+      <SaveNode13 sourceOffsetX="63472" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+          <SavePort18 />
+          <SavePort19 />
+          <SavePort20 />
+          <SavePort21 />
+        </portList>
+      </SaveNode13>
+      <SaveNode14 sourceOffsetX="63658" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+          <SavePort18 />
+          <SavePort19 />
+          <SavePort20 />
+          <SavePort21 />
+        </portList>
+      </SaveNode14>
+      <SaveNode15 sourceOffsetX="63844" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+          <SavePort18 />
+          <SavePort19 />
+          <SavePort20 />
+          <SavePort21 />
+        </portList>
+      </SaveNode15>
+    </nl-FS2020>
+    <nl-RadioCom>
+      <SaveNode0 sourceOffsetX="64031" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode0>
+      <SaveNode1 sourceOffsetX="64191" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode1>
+      <SaveNode2 sourceOffsetX="64351" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode2>
+      <SaveNode3 sourceOffsetX="64511" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode3>
+      <SaveNode4 sourceOffsetX="64671" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode4>
+      <SaveNode5 sourceOffsetX="64831" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode5>
+      <SaveNode6 sourceOffsetX="64991" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode6>
+      <SaveNode7 sourceOffsetX="65151" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode7>
+      <SaveNode8 sourceOffsetX="65311" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode8>
+      <SaveNode9 sourceOffsetX="65471" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode9>
+      <SaveNode10 sourceOffsetX="65631" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode10>
+      <SaveNode11 sourceOffsetX="65791" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode11>
+      <SaveNode12 sourceOffsetX="65951" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode12>
+      <SaveNode13 sourceOffsetX="66111" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode13>
+      <SaveNode14 sourceOffsetX="66271" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode14>
+      <SaveNode15 sourceOffsetX="66431" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode15>
+    </nl-RadioCom>
+    <nl-RadioNav>
+      <SaveNode0 sourceOffsetX="66591" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode0>
+      <SaveNode1 sourceOffsetX="66751" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode1>
+      <SaveNode2 sourceOffsetX="66911" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode2>
+      <SaveNode3 sourceOffsetX="67071" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode3>
+      <SaveNode4 sourceOffsetX="67231" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode4>
+      <SaveNode5 sourceOffsetX="67391" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode5>
+      <SaveNode6 sourceOffsetX="67551" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode6>
+      <SaveNode7 sourceOffsetX="67711" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode7>
+      <SaveNode8 sourceOffsetX="67871" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode8>
+      <SaveNode9 sourceOffsetX="68031" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode9>
+      <SaveNode10 sourceOffsetX="68191" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode10>
+      <SaveNode11 sourceOffsetX="68351" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode11>
+      <SaveNode12 sourceOffsetX="68511" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode12>
+      <SaveNode13 sourceOffsetX="68671" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode13>
+      <SaveNode14 sourceOffsetX="68831" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode14>
+      <SaveNode15 sourceOffsetX="68991" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode15>
+    </nl-RadioNav>
+    <nl-048ba9d9-e987-43d4-a428-296e9dd8d267>
+      <SaveNode0 sourceOffsetX="1770" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+        </portList>
+      </SaveNode0>
+      <SaveNode1 sourceOffsetX="1744.634" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+        </portList>
+      </SaveNode1>
+    </nl-048ba9d9-e987-43d4-a428-296e9dd8d267>
+    <nl-FD3C1671-5706-4DF3-9048-A71ED21D7FA8>
+      <SaveNode0 sourceOffsetX="1770" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+        </portList>
+      </SaveNode0>
+    </nl-FD3C1671-5706-4DF3-9048-A71ED21D7FA8>
+    <nl-CD26E39B-767D-410E-AFAB-482ACFCB94BA>
+      <SaveNode0 sourceOffsetX="11.57296" sourceOffsetY="-317.2728">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+          <SavePort18 />
+          <SavePort19 />
+          <SavePort20 />
+          <SavePort21 />
+          <SavePort22 />
+          <SavePort23 />
+          <SavePort24 />
+          <SavePort25 />
+          <SavePort26 />
+          <SavePort27 />
+          <SavePort28 />
+          <SavePort29 />
+          <SavePort30 />
+          <SavePort31 />
+          <SavePort32 />
+          <SavePort33 />
+          <SavePort34 />
+          <SavePort35 />
+          <SavePort36 />
+          <SavePort37 />
+          <SavePort38 />
+          <SavePort39 />
+          <SavePort40 />
+          <SavePort41 />
+          <SavePort42 />
+          <SavePort43 />
+          <SavePort44 />
+          <SavePort45 />
+          <SavePort46 />
+          <SavePort47 />
+          <SavePort48 />
+          <SavePort49 />
+          <SavePort50 />
+          <SavePort51 />
+          <SavePort52 />
+          <SavePort53 />
+          <SavePort54 />
+          <SavePort55 />
+          <SavePort56 />
+        </portList>
+      </SaveNode0>
+    </nl-CD26E39B-767D-410E-AFAB-482ACFCB94BA>
+    <nl-EasyXInput>
+      <SaveNode0 sourceOffsetX="1770" sourceOffsetY="0">
+        <portList>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12 />
+          <SavePort13 />
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+          <SavePort18 />
+          <SavePort19 />
+        </portList>
+      </SaveNode0>
+    </nl-EasyXInput>
+    <nl-05D8FF383737484257076930>
+      <SaveNode0 sourceOffsetX="1308.004" sourceOffsetY="-169.652">
+        <portList>
+          <SavePort0>
+            <sp-FS202003 PluginID="FS2020" NodeIndex="0" PortIndex="3" />
+          </SavePort0>
+          <SavePort1>
+            <sp-FS2020017 PluginID="FS2020" NodeIndex="0" PortIndex="17" />
+          </SavePort1>
+          <SavePort2>
+            <sp-FS2020011 PluginID="FS2020" NodeIndex="0" PortIndex="11" />
+          </SavePort2>
+          <SavePort3>
+            <sp-FS202005 PluginID="FS2020" NodeIndex="0" PortIndex="5" />
+          </SavePort3>
+          <SavePort4>
+            <sp-FS2020019 PluginID="FS2020" NodeIndex="0" PortIndex="19" />
+          </SavePort4>
+          <SavePort5>
+            <sp-FS2020013 PluginID="FS2020" NodeIndex="0" PortIndex="13" />
+          </SavePort5>
+          <SavePort6>
+            <sp-FS202001 PluginID="FS2020" NodeIndex="0" PortIndex="1" />
+          </SavePort6>
+          <SavePort7>
+            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA018 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="18" />
+          </SavePort7>
+          <SavePort8>
+            <sp-FS2020015 PluginID="FS2020" NodeIndex="0" PortIndex="15" />
+          </SavePort8>
+          <SavePort9 />
+          <SavePort10 />
+          <SavePort11 />
+          <SavePort12>
+            <sp-Max7219TransformB11 PluginID="Max7219TransformB" NodeIndex="1" PortIndex="1" />
+          </SavePort12>
+          <SavePort13>
+            <sp-Max7219TransformB01 PluginID="Max7219TransformB" NodeIndex="0" PortIndex="1" />
+          </SavePort13>
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+          <SavePort18 />
+          <SavePort19>
+            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA051 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="51" />
+          </SavePort19>
+          <SavePort20>
+            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA055 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="55" />
+          </SavePort20>
+          <SavePort21 />
+          <SavePort22>
+            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA05 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="5" />
+          </SavePort22>
+          <SavePort23>
+            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA012 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="12" />
+          </SavePort23>
+          <SavePort24>
+            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA020 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="20" />
+          </SavePort24>
+          <SavePort25>
+            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA026 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="26" />
+          </SavePort25>
+          <SavePort26>
+            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA021 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="21" />
+          </SavePort26>
+          <SavePort27>
+            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA024 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="24" />
+          </SavePort27>
+          <SavePort28>
+            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA09 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="9" />
+          </SavePort28>
+          <SavePort29>
+            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA017 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="17" />
+          </SavePort29>
+          <SavePort30 />
+          <SavePort31>
+            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA027 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="27" />
+          </SavePort31>
+          <SavePort32>
+            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA022 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="22" />
+          </SavePort32>
+          <SavePort33 />
+          <SavePort34>
+            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA053 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="53" />
+          </SavePort34>
+          <SavePort35 />
+          <SavePort36 />
+          <SavePort37 />
+          <SavePort38 />
+          <SavePort39 />
+          <SavePort40 />
+          <SavePort41 />
+          <SavePort42 />
+        </portList>
+      </SaveNode0>
+    </nl-05D8FF383737484257076930>
+  </nodeList>
+  <pluginList>
+    <pl-048ba9d9-e987-43d4-a428-296e9dd8d267 Open="True" Auto="False" />
+    <pl-FD3C1671-5706-4DF3-9048-A71ED21D7FA8 Open="True" Auto="False" />
+    <pl-CD26E39B-767D-410E-AFAB-482ACFCB94BA Open="True" Auto="True" />
+    <pl-EasyXInput Open="True" Auto="False" />
+  </pluginList>
+  <pluginNodeList>
+    <pn-048ba9d9-e987-43d4-a428-296e9dd8d267>
+      <pluginNodeOpen0 Open="False" />
+      <pluginNodeOpen1 Open="False" />
+    </pn-048ba9d9-e987-43d4-a428-296e9dd8d267>
+    <pn-FD3C1671-5706-4DF3-9048-A71ED21D7FA8>
+      <pluginNodeOpen0 Open="False" />
+    </pn-FD3C1671-5706-4DF3-9048-A71ED21D7FA8>
+    <pn-CD26E39B-767D-410E-AFAB-482ACFCB94BA>
+      <pluginNodeOpen0 Open="True" />
+    </pn-CD26E39B-767D-410E-AFAB-482ACFCB94BA>
+    <pn-EasyXInput>
+      <pluginNodeOpen0 Open="False" />
+    </pn-EasyXInput>
+  </pluginNodeList>
+  <customNodeLinkList>
+    <cn-A10cILS>
+      <customNodeOpen0 Open="False" />
+      <customNodeOpen1 Open="False" />
+      <customNodeOpen2 Open="False" />
+      <customNodeOpen3 Open="False" />
+      <customNodeOpen4 Open="False" />
+      <customNodeOpen5 Open="False" />
+      <customNodeOpen6 Open="False" />
+      <customNodeOpen7 Open="False" />
+      <customNodeOpen8 Open="False" />
+      <customNodeOpen9 Open="False" />
+      <customNodeOpen10 Open="False" />
+      <customNodeOpen11 Open="False" />
+      <customNodeOpen12 Open="False" />
+      <customNodeOpen13 Open="False" />
+      <customNodeOpen14 Open="False" />
+      <customNodeOpen15 Open="False" />
+    </cn-A10cILS>
+    <cn-A10cVHF>
+      <customNodeOpen0 Open="False" />
+      <customNodeOpen1 Open="False" />
+      <customNodeOpen2 Open="False" />
+      <customNodeOpen3 Open="False" />
+      <customNodeOpen4 Open="False" />
+      <customNodeOpen5 Open="False" />
+      <customNodeOpen6 Open="False" />
+      <customNodeOpen7 Open="False" />
+      <customNodeOpen8 Open="False" />
+      <customNodeOpen9 Open="False" />
+      <customNodeOpen10 Open="False" />
+      <customNodeOpen11 Open="False" />
+      <customNodeOpen12 Open="False" />
+      <customNodeOpen13 Open="False" />
+      <customNodeOpen14 Open="False" />
+      <customNodeOpen15 Open="False" />
+    </cn-A10cVHF>
+    <cn-Char2String>
+      <customNodeOpen0 Open="False" />
+      <customNodeOpen1 Open="False" />
+      <customNodeOpen2 Open="False" />
+      <customNodeOpen3 Open="False" />
+      <customNodeOpen4 Open="False" />
+      <customNodeOpen5 Open="False" />
+      <customNodeOpen6 Open="False" />
+      <customNodeOpen7 Open="False" />
+      <customNodeOpen8 Open="False" />
+      <customNodeOpen9 Open="False" />
+      <customNodeOpen10 Open="False" />
+      <customNodeOpen11 Open="False" />
+      <customNodeOpen12 Open="False" />
+      <customNodeOpen13 Open="False" />
+      <customNodeOpen14 Open="False" />
+      <customNodeOpen15 Open="False" />
+    </cn-Char2String>
+    <cn-F18_UFC_Text>
+      <customNodeOpen0 Open="False" />
+      <customNodeOpen1 Open="False" />
+      <customNodeOpen2 Open="False" />
+      <customNodeOpen3 Open="False" />
+      <customNodeOpen4 Open="False" />
+      <customNodeOpen5 Open="False" />
+      <customNodeOpen6 Open="False" />
+      <customNodeOpen7 Open="False" />
+      <customNodeOpen8 Open="False" />
+      <customNodeOpen9 Open="False" />
+      <customNodeOpen10 Open="False" />
+      <customNodeOpen11 Open="False" />
+      <customNodeOpen12 Open="False" />
+      <customNodeOpen13 Open="False" />
+      <customNodeOpen14 Open="False" />
+      <customNodeOpen15 Open="False" />
+    </cn-F18_UFC_Text>
+    <cn-FloatPlus>
+      <customNodeOpen0 Open="False" />
+      <customNodeOpen1 Open="False" />
+      <customNodeOpen2 Open="False" />
+      <customNodeOpen3 Open="False" />
+      <customNodeOpen4 Open="False" />
+      <customNodeOpen5 Open="False" />
+      <customNodeOpen6 Open="False" />
+      <customNodeOpen7 Open="False" />
+      <customNodeOpen8 Open="False" />
+      <customNodeOpen9 Open="False" />
+      <customNodeOpen10 Open="False" />
+      <customNodeOpen11 Open="False" />
+      <customNodeOpen12 Open="False" />
+      <customNodeOpen13 Open="False" />
+      <customNodeOpen14 Open="False" />
+      <customNodeOpen15 Open="False" />
+    </cn-FloatPlus>
+    <cn-Max7219TransformA>
+      <customNodeOpen0 Open="False" />
+      <customNodeOpen1 Open="False" />
+      <customNodeOpen2 Open="False" />
+      <customNodeOpen3 Open="False" />
+      <customNodeOpen4 Open="False" />
+      <customNodeOpen5 Open="False" />
+      <customNodeOpen6 Open="False" />
+      <customNodeOpen7 Open="False" />
+      <customNodeOpen8 Open="False" />
+      <customNodeOpen9 Open="False" />
+      <customNodeOpen10 Open="False" />
+      <customNodeOpen11 Open="False" />
+      <customNodeOpen12 Open="False" />
+      <customNodeOpen13 Open="False" />
+      <customNodeOpen14 Open="False" />
+      <customNodeOpen15 Open="False" />
+    </cn-Max7219TransformA>
+    <cn-Max7219TransformB>
+      <customNodeOpen0 Open="True" />
+      <customNodeOpen1 Open="True" />
+      <customNodeOpen2 Open="False" />
+      <customNodeOpen3 Open="False" />
+      <customNodeOpen4 Open="False" />
+      <customNodeOpen5 Open="False" />
+      <customNodeOpen6 Open="False" />
+      <customNodeOpen7 Open="False" />
+      <customNodeOpen8 Open="False" />
+      <customNodeOpen9 Open="False" />
+      <customNodeOpen10 Open="False" />
+      <customNodeOpen11 Open="False" />
+      <customNodeOpen12 Open="False" />
+      <customNodeOpen13 Open="False" />
+      <customNodeOpen14 Open="False" />
+      <customNodeOpen15 Open="False" />
+    </cn-Max7219TransformB>
+    <cn-Max7219TransformC>
+      <customNodeOpen0 Open="False" />
+      <customNodeOpen1 Open="False" />
+      <customNodeOpen2 Open="False" />
+      <customNodeOpen3 Open="False" />
+      <customNodeOpen4 Open="False" />
+      <customNodeOpen5 Open="False" />
+      <customNodeOpen6 Open="False" />
+      <customNodeOpen7 Open="False" />
+      <customNodeOpen8 Open="False" />
+      <customNodeOpen9 Open="False" />
+      <customNodeOpen10 Open="False" />
+      <customNodeOpen11 Open="False" />
+      <customNodeOpen12 Open="False" />
+      <customNodeOpen13 Open="False" />
+      <customNodeOpen14 Open="False" />
+      <customNodeOpen15 Open="False" />
+    </cn-Max7219TransformC>
+    <cn-Max7219TransformD>
+      <customNodeOpen0 Open="False" />
+      <customNodeOpen1 Open="False" />
+      <customNodeOpen2 Open="False" />
+      <customNodeOpen3 Open="False" />
+      <customNodeOpen4 Open="False" />
+      <customNodeOpen5 Open="False" />
+      <customNodeOpen6 Open="False" />
+      <customNodeOpen7 Open="False" />
+      <customNodeOpen8 Open="False" />
+      <customNodeOpen9 Open="False" />
+      <customNodeOpen10 Open="False" />
+      <customNodeOpen11 Open="False" />
+      <customNodeOpen12 Open="False" />
+      <customNodeOpen13 Open="False" />
+      <customNodeOpen14 Open="False" />
+      <customNodeOpen15 Open="False" />
+    </cn-Max7219TransformD>
+    <cn-PreciseDecimal>
+      <customNodeOpen0 Open="False" />
+      <customNodeOpen1 Open="False" />
+      <customNodeOpen2 Open="False" />
+      <customNodeOpen3 Open="False" />
+      <customNodeOpen4 Open="False" />
+      <customNodeOpen5 Open="False" />
+      <customNodeOpen6 Open="False" />
+      <customNodeOpen7 Open="False" />
+      <customNodeOpen8 Open="False" />
+      <customNodeOpen9 Open="False" />
+      <customNodeOpen10 Open="False" />
+      <customNodeOpen11 Open="False" />
+      <customNodeOpen12 Open="False" />
+      <customNodeOpen13 Open="False" />
+      <customNodeOpen14 Open="False" />
+      <customNodeOpen15 Open="False" />
+    </cn-PreciseDecimal>
+    <cn-String2Char>
+      <customNodeOpen0 Open="False" />
+      <customNodeOpen1 Open="False" />
+      <customNodeOpen2 Open="False" />
+      <customNodeOpen3 Open="False" />
+      <customNodeOpen4 Open="False" />
+      <customNodeOpen5 Open="False" />
+      <customNodeOpen6 Open="False" />
+      <customNodeOpen7 Open="False" />
+      <customNodeOpen8 Open="False" />
+      <customNodeOpen9 Open="False" />
+      <customNodeOpen10 Open="False" />
+      <customNodeOpen11 Open="False" />
+      <customNodeOpen12 Open="False" />
+      <customNodeOpen13 Open="False" />
+      <customNodeOpen14 Open="False" />
+      <customNodeOpen15 Open="False" />
+    </cn-String2Char>
+    <cn-StringSwitch>
+      <customNodeOpen0 Open="False" />
+      <customNodeOpen1 Open="False" />
+      <customNodeOpen2 Open="False" />
+      <customNodeOpen3 Open="False" />
+      <customNodeOpen4 Open="False" />
+      <customNodeOpen5 Open="False" />
+      <customNodeOpen6 Open="False" />
+      <customNodeOpen7 Open="False" />
+      <customNodeOpen8 Open="False" />
+      <customNodeOpen9 Open="False" />
+      <customNodeOpen10 Open="False" />
+      <customNodeOpen11 Open="False" />
+      <customNodeOpen12 Open="False" />
+      <customNodeOpen13 Open="False" />
+      <customNodeOpen14 Open="False" />
+      <customNodeOpen15 Open="False" />
+    </cn-StringSwitch>
+    <cn-APALT>
+      <customNodeOpen0 Open="False" />
+      <customNodeOpen1 Open="False" />
+      <customNodeOpen2 Open="False" />
+      <customNodeOpen3 Open="False" />
+      <customNodeOpen4 Open="False" />
+      <customNodeOpen5 Open="False" />
+      <customNodeOpen6 Open="False" />
+      <customNodeOpen7 Open="False" />
+      <customNodeOpen8 Open="False" />
+      <customNodeOpen9 Open="False" />
+      <customNodeOpen10 Open="False" />
+      <customNodeOpen11 Open="False" />
+      <customNodeOpen12 Open="False" />
+      <customNodeOpen13 Open="False" />
+      <customNodeOpen14 Open="False" />
+      <customNodeOpen15 Open="False" />
+    </cn-APALT>
+    <cn-APHDG>
+      <customNodeOpen0 Open="False" />
+      <customNodeOpen1 Open="False" />
+      <customNodeOpen2 Open="False" />
+      <customNodeOpen3 Open="False" />
+      <customNodeOpen4 Open="False" />
+      <customNodeOpen5 Open="False" />
+      <customNodeOpen6 Open="False" />
+      <customNodeOpen7 Open="False" />
+      <customNodeOpen8 Open="False" />
+      <customNodeOpen9 Open="False" />
+      <customNodeOpen10 Open="False" />
+      <customNodeOpen11 Open="False" />
+      <customNodeOpen12 Open="False" />
+      <customNodeOpen13 Open="False" />
+      <customNodeOpen14 Open="False" />
+      <customNodeOpen15 Open="False" />
+    </cn-APHDG>
+    <cn-APVS>
+      <customNodeOpen0 Open="False" />
+      <customNodeOpen1 Open="False" />
+      <customNodeOpen2 Open="False" />
+      <customNodeOpen3 Open="False" />
+      <customNodeOpen4 Open="False" />
+      <customNodeOpen5 Open="False" />
+      <customNodeOpen6 Open="False" />
+      <customNodeOpen7 Open="False" />
+      <customNodeOpen8 Open="False" />
+      <customNodeOpen9 Open="False" />
+      <customNodeOpen10 Open="False" />
+      <customNodeOpen11 Open="False" />
+      <customNodeOpen12 Open="False" />
+      <customNodeOpen13 Open="False" />
+      <customNodeOpen14 Open="False" />
+      <customNodeOpen15 Open="False" />
+    </cn-APVS>
+    <cn-Bcd2Str>
+      <customNodeOpen0 Open="False" />
+      <customNodeOpen1 Open="False" />
+      <customNodeOpen2 Open="False" />
+      <customNodeOpen3 Open="False" />
+      <customNodeOpen4 Open="False" />
+      <customNodeOpen5 Open="False" />
+      <customNodeOpen6 Open="False" />
+      <customNodeOpen7 Open="False" />
+      <customNodeOpen8 Open="False" />
+      <customNodeOpen9 Open="False" />
+      <customNodeOpen10 Open="False" />
+      <customNodeOpen11 Open="False" />
+      <customNodeOpen12 Open="False" />
+      <customNodeOpen13 Open="False" />
+      <customNodeOpen14 Open="False" />
+      <customNodeOpen15 Open="False" />
+    </cn-Bcd2Str>
+    <cn-Encoder10>
+      <customNodeOpen0 Open="False" />
+      <customNodeOpen1 Open="False" />
+      <customNodeOpen2 Open="False" />
+      <customNodeOpen3 Open="False" />
+      <customNodeOpen4 Open="False" />
+      <customNodeOpen5 Open="False" />
+      <customNodeOpen6 Open="False" />
+      <customNodeOpen7 Open="False" />
+      <customNodeOpen8 Open="False" />
+      <customNodeOpen9 Open="False" />
+      <customNodeOpen10 Open="False" />
+      <customNodeOpen11 Open="False" />
+      <customNodeOpen12 Open="False" />
+      <customNodeOpen13 Open="False" />
+      <customNodeOpen14 Open="False" />
+      <customNodeOpen15 Open="False" />
+    </cn-Encoder10>
+    <cn-EncoderRev>
+      <customNodeOpen0 Open="False" />
+      <customNodeOpen1 Open="False" />
+      <customNodeOpen2 Open="False" />
+      <customNodeOpen3 Open="False" />
+      <customNodeOpen4 Open="False" />
+      <customNodeOpen5 Open="False" />
+      <customNodeOpen6 Open="False" />
+      <customNodeOpen7 Open="False" />
+      <customNodeOpen8 Open="False" />
+      <customNodeOpen9 Open="False" />
+      <customNodeOpen10 Open="False" />
+      <customNodeOpen11 Open="False" />
+      <customNodeOpen12 Open="False" />
+      <customNodeOpen13 Open="False" />
+      <customNodeOpen14 Open="False" />
+      <customNodeOpen15 Open="False" />
+    </cn-EncoderRev>
+    <cn-EncoderSlow>
+      <customNodeOpen0 Open="False" />
+      <customNodeOpen1 Open="False" />
+      <customNodeOpen2 Open="False" />
+      <customNodeOpen3 Open="False" />
+      <customNodeOpen4 Open="False" />
+      <customNodeOpen5 Open="False" />
+      <customNodeOpen6 Open="False" />
+      <customNodeOpen7 Open="False" />
+      <customNodeOpen8 Open="False" />
+      <customNodeOpen9 Open="False" />
+      <customNodeOpen10 Open="False" />
+      <customNodeOpen11 Open="False" />
+      <customNodeOpen12 Open="False" />
+      <customNodeOpen13 Open="False" />
+      <customNodeOpen14 Open="False" />
+      <customNodeOpen15 Open="False" />
+    </cn-EncoderSlow>
+    <cn-FastEncoder10>
+      <customNodeOpen0 Open="False" />
+      <customNodeOpen1 Open="False" />
+      <customNodeOpen2 Open="False" />
+      <customNodeOpen3 Open="False" />
+      <customNodeOpen4 Open="False" />
+      <customNodeOpen5 Open="False" />
+      <customNodeOpen6 Open="False" />
+      <customNodeOpen7 Open="False" />
+      <customNodeOpen8 Open="False" />
+      <customNodeOpen9 Open="False" />
+      <customNodeOpen10 Open="False" />
+      <customNodeOpen11 Open="False" />
+      <customNodeOpen12 Open="False" />
+      <customNodeOpen13 Open="False" />
+      <customNodeOpen14 Open="False" />
+      <customNodeOpen15 Open="False" />
+    </cn-FastEncoder10>
+    <cn-FastEncoder2>
+      <customNodeOpen0 Open="False" />
+      <customNodeOpen1 Open="False" />
+      <customNodeOpen2 Open="False" />
+      <customNodeOpen3 Open="False" />
+      <customNodeOpen4 Open="False" />
+      <customNodeOpen5 Open="False" />
+      <customNodeOpen6 Open="False" />
+      <customNodeOpen7 Open="False" />
+      <customNodeOpen8 Open="False" />
+      <customNodeOpen9 Open="False" />
+      <customNodeOpen10 Open="False" />
+      <customNodeOpen11 Open="False" />
+      <customNodeOpen12 Open="False" />
+      <customNodeOpen13 Open="False" />
+      <customNodeOpen14 Open="False" />
+      <customNodeOpen15 Open="False" />
+    </cn-FastEncoder2>
+    <cn-FastEncoder5>
+      <customNodeOpen0 Open="False" />
+      <customNodeOpen1 Open="False" />
+      <customNodeOpen2 Open="False" />
+      <customNodeOpen3 Open="False" />
+      <customNodeOpen4 Open="False" />
+      <customNodeOpen5 Open="False" />
+      <customNodeOpen6 Open="False" />
+      <customNodeOpen7 Open="False" />
+      <customNodeOpen8 Open="False" />
+      <customNodeOpen9 Open="False" />
+      <customNodeOpen10 Open="False" />
+      <customNodeOpen11 Open="False" />
+      <customNodeOpen12 Open="False" />
+      <customNodeOpen13 Open="False" />
+      <customNodeOpen14 Open="False" />
+      <customNodeOpen15 Open="False" />
+    </cn-FastEncoder5>
+    <cn-FS2020>
+      <customNodeOpen0 Open="True" />
+      <customNodeOpen1 Open="False" />
+      <customNodeOpen2 Open="False" />
+      <customNodeOpen3 Open="False" />
+      <customNodeOpen4 Open="False" />
+      <customNodeOpen5 Open="False" />
+      <customNodeOpen6 Open="False" />
+      <customNodeOpen7 Open="False" />
+      <customNodeOpen8 Open="False" />
+      <customNodeOpen9 Open="False" />
+      <customNodeOpen10 Open="False" />
+      <customNodeOpen11 Open="False" />
+      <customNodeOpen12 Open="False" />
+      <customNodeOpen13 Open="False" />
+      <customNodeOpen14 Open="False" />
+      <customNodeOpen15 Open="False" />
+    </cn-FS2020>
+    <cn-RadioCom>
+      <customNodeOpen0 Open="False" />
+      <customNodeOpen1 Open="False" />
+      <customNodeOpen2 Open="False" />
+      <customNodeOpen3 Open="False" />
+      <customNodeOpen4 Open="False" />
+      <customNodeOpen5 Open="False" />
+      <customNodeOpen6 Open="False" />
+      <customNodeOpen7 Open="False" />
+      <customNodeOpen8 Open="False" />
+      <customNodeOpen9 Open="False" />
+      <customNodeOpen10 Open="False" />
+      <customNodeOpen11 Open="False" />
+      <customNodeOpen12 Open="False" />
+      <customNodeOpen13 Open="False" />
+      <customNodeOpen14 Open="False" />
+      <customNodeOpen15 Open="False" />
+    </cn-RadioCom>
+    <cn-RadioNav>
+      <customNodeOpen0 Open="False" />
+      <customNodeOpen1 Open="False" />
+      <customNodeOpen2 Open="False" />
+      <customNodeOpen3 Open="False" />
+      <customNodeOpen4 Open="False" />
+      <customNodeOpen5 Open="False" />
+      <customNodeOpen6 Open="False" />
+      <customNodeOpen7 Open="False" />
+      <customNodeOpen8 Open="False" />
+      <customNodeOpen9 Open="False" />
+      <customNodeOpen10 Open="False" />
+      <customNodeOpen11 Open="False" />
+      <customNodeOpen12 Open="False" />
+      <customNodeOpen13 Open="False" />
+      <customNodeOpen14 Open="False" />
+      <customNodeOpen15 Open="False" />
+    </cn-RadioNav>
+  </customNodeLinkList>
+</Save>

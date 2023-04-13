@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Plugin>
+  <Module>
+    <!--
+  <Node Name="DCS A10C Test" Info="dcs node test">
+    <Port Name="Test" Type ="Out" ValueType="Int" Value="@82"/>
+    <Port Name="Test2" Type ="Out" ValueType="Float" Value="@82"/>
+    <Port Name="Test3" Type ="Out" ValueType="String" Script="test" Value="@82,:,@35"/>
+  </Node> />
+  -->
+    <Node Name="DCS A10C Fire System">
+      <Port Name="Left Engine Fire Pull" Type="Switch" Position="3001,0:3001,1" Key="50" />
+      <Port Name="APU Fire Pull" Type="Switch" Position="3002,0:3002,1" Key="50" />
+      <Port Name="Right Engine Fire Pull" Type="Switch" Position="3003,0:3003,1" Key="50" />
+      <Port Name="Discharge Switch" Type="Switch" Position="3004,-1:3004,0:3004,1" Key="50" />
+    </Node>
+    <Node Name="DCS A10C L MFCD">
+      <Port Name="Button_1" Type="Button" Push="1.0" Release="0.0" Key="2,3001" />
+      <Port Name="Button_2" Type="Button" Push="1.0" Release="0.0" Key="2,3002" />
+      <Port Name="Button_3" Type="Button" Push="1.0" Release="0.0" Key="2,3003" />
+      <Port Name="Button_4" Type="Button" Push="1.0" Release="0.0" Key="2,3004" />
+      <Port Name="Button_5" Type="Button" Push="1.0" Release="0.0" Key="2,3005" />
+      <Port Name="Button_6" Type="Button" Push="1.0" Release="0.0" Key="2,3006" />
+      <Port Name="Button_7" Type="Button" Push="1.0" Release="0.0" Key="2,3007" />
+      <Port Name="Button_8" Type="Button" Push="1.0" Release="0.0" Key="2,3008" />
+      <Port Name="Button_9" Type="Button" Push="1.0" Release="0.0" Key="2,3009" />
+      <Port Name="Button_10" Type="Button" Push="1.0" Release="0.0" Key="2,3010" />
+      <Port Name="Button_11" Type="Button" Push="1.0" Release="0.0" Key="2,3011" />
+      <Port Name="Button_12" Type="Button" Push="1.0" Release="0.0" Key="2,3012" />
+      <Port Name="Button_13" Type="Button" Push="1.0" Release="0.0" Key="2,3013" />
+      <Port Name="Button_14" Type="Button" Push="1.0" Release="0.0" Key="2,3014" />
+      <Port Name="Button_15" Type="Button" Push="1.0" Release="0.0" Key="2,3015" />
+      <Port Name="Button_16" Type="Button" Push="1.0" Release="0.0" Key="2,3016" />
+      <Port Name="Button_17" Type="Button" Push="1.0" Release="0.0" Key="2,3017" />
+      <Port Name="Button_18" Type="Button" Push="1.0" Release="0.0" Key="2,3018" />
+      <Port Name="Button_19" Type="Button" Push="1.0" Release="0.0" Key="2,3019" />
+      <Port Name="Button_20" Type="Button" Push="1.0" Release="0.0" Key="2,3020" />
+      <Port Name="Moving Map Scale" Type="Rocker" Push1="3021" Release1="3022" Push2="3023" Release2="3023" Key="2" />
+      <Port Name="Backlight" Type="Rocker" Push1="3024" Release1="3026" Push2="3025" Release2="3026" Key="2" />
+      <Port Name="Brightness" Type="Rocker" Push1="3027" Release1="3029" Push2="3027" Release2="3029" Key="2" />
+      <Port Name="Contrast" Type="Rocker" Push1="3030" Release1="3032" Push2="3031" Release2="3032" Key="2" />
+      <Port Name="Entity Level" Type="Rocker" Push1="3033" Release1="3035" Push2="3034" Release2="3035" Key="2" />
+      <Port Name="Day/Night/Off" Type="Switch" Position="3036,0.2:3036,0.1:3036,0.0" Key="2" />
+    </Node>
+    <Node Name="DCS A10C ADI">
+      <Port Name="ADI_Pitch" Type="Out" ValueType="Float" Value="@17" />
+      <Port Name="ADI_Bank" Type="Out" ValueType="Float" Value="@18" />
+      <Port Name="ADI_Slipball" Type="Out" ValueType="Float" Value="@24" />
+      <Port Name="ADI_TurnNeedle" Type="Out" ValueType="Float" Value="@23" />
+      <Port Name="ADI_attitude_warning_flag" Type="Out" ValueType="Float" Value="@25" />
+      <Port Name="ADI_course_warning_flag" Type="Out" ValueType="Float" Value="@19" />
+      <Port Name="ADI_glide_slope_flag" Type="Out" ValueType="Float" Value="@26" />
+      <Port Name="ADI_bank_steering_bar" Type="Out" ValueType="Float" Value="@20" />
+      <Port Name="ADI_pitch_steering_bar" Type="Out" ValueType="Float" Value="@21" />
+      <Port Name="ADI_glide_slope_indicator" Type="Out" ValueType="Float" Value="@27" />
+      <Port Name="Pitch Trim Knob" Type="Axis" Min="-0.5" Max="0.5" Key="47,3001" />
+    </Node>
+    <Node Name="DCS A10C Text">
+      <Port Name="VHF AM Preset" Type="Out" ValueType="String" Value="@137" />
+      <Port Name="VHF AM" Type="Out" ValueType="String" Script="A10_VHF_AM_FM" Value="@143,-,@144,-,@145,-,@146" />
+      <Port Name="VHF FM Preset" Type="Out" ValueType="String" Value="@151" />
+      <Port Name="VHF FM" Type="Out" ValueType="String" Script="A10_VHF_AM_FM" Value="@157,-,@158,-,@159,-,@160" />
+      <Port Name="ILS" Type="Out" ValueType="String" Script="A10_ILS" Value="@251,-,@252" />
+      <Port Name="TACAN" Type="Out" ValueType="String" Script="A10_TACAN" Value="@2263,-,@266" />
+      <Port Name="CMSP Line 1" Type="Out" ValueType="String" Value="@3001" />
+      <Port Name="CMSP Line 2" Type="Out" ValueType="String" Value="@3002" />
+      <Port Name="CMSC JMR" Type="Out" ValueType="String" Value="@3003" />
+      <Port Name="CMSC MWS" Type="Out" ValueType="String" Value="@3004" />
+      <Port Name="CMSC Chaff / Flare" Type="Out" ValueType="String" Value="@3005" />
+      <Port Name="UHF Preset" Type="Out" ValueType="String" Value="@3006" />
+      <Port Name="UHF Frequency" Type="Out" ValueType="String" Value="@3007" />
+      <Port Name="Clock" Type="Out" ValueType="String" Value="@3008" />
+    </Node>
+    <Node Name="DCS A10C EMI">
+      <Port Name="EngineLeftOilPressure" Type="Out" ValueType="Float" Value="@82" />
+      <Port Name="EngineRightOilPressure" Type="Out" ValueType="Float" Value="@83" />
+      <Port Name="EngineLeftCoreSpeedTenth" Type="Out" ValueType="Float" Value="@78" />
+      <Port Name="EngineLeftCoreSpeedUnits" Type="Out" ValueType="Float" Value="@79" />
+      <Port Name="EngineRightCoreSpeedTenth" Type="Out" ValueType="Float" Value="@80" />
+      <Port Name="EngineRightCoreSpeedUnits" Type="Out" ValueType="Float" Value="@81" />
+      <Port Name="EngineLeftFanSpeed" Type="Out" ValueType="Float" Value="@76" />
+      <Port Name="EngineRightFanSpeed" Type="Out" ValueType="Float" Value="@77" />
+      <Port Name="EngineLeftTemperatureTenth" Type="Out" ValueType="Float" Value="@70" />
+      <Port Name="EngineLeftTemperatureUnits" Type="Out" ValueType="Float" Value="@71" />
+      <Port Name="EngineRightTemperatureTenth" Type="Out" ValueType="Float" Value="@73" />
+      <Port Name="EngineRightTemperatureUnits" Type="Out" ValueType="Float" Value="@74" />
+      <Port Name="EngineLeftFuelFlow" Type="Out" ValueType="Float" Value="@84" />
+      <Port Name="EngineRightFuelFlow" Type="Out" ValueType="Float" Value="@85" />
+      <Port Name="APU_RPM" Type="Out" ValueType="Float" Value="@13" />
+      <Port Name="APUTemperature" Type="Out" ValueType="Float" Value="@14" />
+    </Node>
+    <Node Name="DCS A10C SAI">
+      <Port Name="SAI_Pitch" Type="Out" ValueType="Float" Value="@63" />
+      <Port Name="SAI_Bank" Type="Out" ValueType="Float" Value="@64" />
+      <Port Name="SAI_attitude_warning_flag" Type="Out" ValueType="Float" Value="@65" />
+      <Port Name="SAI_manual_pitch_adjustment" Type="Out" ValueType="Float" Value="@715" />
+      <Port Name="SAI_knob_arrow" Type="Out" ValueType="Float" Value="@717" />
+    </Node>
+    <Node Name="DCS A10C HSI">
+      <Port Name="HSI_poweroff_flag" Type="Out" ValueType="Float" Value="@40" />
+      <Port Name="HSI_range_flag" Type="Out" ValueType="Float" Value="@32" />
+      <Port Name="HSI_bearing_flag" Type="Out" ValueType="Float" Value="@46" />
+      <Port Name="HSI_heading" Type="Out" ValueType="Float" Value="@34" />
+      <Port Name="HSI_bearing_no1" Type="Out" ValueType="Float" Value="@33" />
+      <Port Name="HSI_bearing_no2" Type="Out" ValueType="Float" Value="@35" />
+      <Port Name="HSI_heading_marker" Type="Out" ValueType="Float" Value="@36" />
+      <Port Name="HSI_course_arrow" Type="Out" ValueType="Float" Value="@47" />
+      <Port Name="HSI_course_counter_100_10" Type="Out" ValueType="Float" Value="@37" />
+      <Port Name="HSI_course_counter_1" Type="Out" ValueType="Float" Value="@39" />
+      <Port Name="HSI_range_counter_1000" Type="Out" ValueType="Float" Value="@28" />
+      <Port Name="HSI_range_counter_100" Type="Out" ValueType="Float" Value="@29" />
+      <Port Name="HSI_range_counter_10" Type="Out" ValueType="Float" Value="@30" />
+      <Port Name="HSI_range_counter_1" Type="Out" ValueType="Float" Value="@31" />
+      <Port Name="HSI_deviation" Type="Out" ValueType="Float" Value="@41" />
+      <Port Name="HSI_to_from_1" Type="Out" ValueType="Float" Value="@42" />
+      <Port Name="HSI_to_from_2" Type="Out" ValueType="Float" Value="@43" />
+      <Port Name="HSI_courseKnob" Type="Out" ValueType="Float" Value="@44" />
+      <Port Name="HSI_headingKnob" Type="Out" ValueType="Float" Value="@45" />
+      <Port Name="Heading Set Knob" Type="Encoder" Step="0.05" Key="45,3001" />
+    </Node>
+    <Node Name="DCS A10C Meter">
+      <Port Name="Vertical Velocity" Type="Out" ValueType="Float" Value="@12" />
+      <Port Name="Angle of Attack" Type="Out" ValueType="Float" Value="@4" />
+      <Port Name="AOA Power Flag" Type="Out" ValueType="Float" Value="@55" />
+      <Port Name="Flaps Position" Type="Out" ValueType="Float" Value="@653" />
+      <Port Name="Fuel Quantity Left" Type="Out" ValueType="Float" Value="@88" />
+      <Port Name="Fuel Quantity Right" Type="Out" ValueType="Float" Value="@89" />
+      <Port Name="Hydraulic Pressure Left" Type="Out" ValueType="Float" Value="@647" />
+      <Port Name="Hydraulic Pressure Right" Type="Out" ValueType="Float" Value="@648" />
+      <Port Name="Oxygen Volume" Type="Out" ValueType="Float" Value="@274" />
+      <Port Name="Oxygen Press" Type="Out" ValueType="Float" Value="@604" />
+      <Port Name="HARS Sync" Type="Out" ValueType="Float" Value="@269" />
+      <Port Name="Cabin Pressure" Type="Out" ValueType="Float" Value="@281" />
+      <Port Name="Airspeed" Type="Out" ValueType="Float" Value="@48" />
+    </Node>
+    <Node Name="DCS A10C Caution Light">
+      <Port Name="ENG_START_CYCLE" Type="Out" ValueType="Int" Value="@480" />
+      <Port Name="L_HYD_PRESS" Type="Out" ValueType="Int" Value="@481" />
+      <Port Name="R_HYD_PRESS" Type="Out" ValueType="Int" Value="@482" />
+      <Port Name="GUN_UNSAFE" Type="Out" ValueType="Int" Value="@483" />
+      <Port Name="ANTISKID" Type="Out" ValueType="Int" Value="@484" />
+      <Port Name="L_HYD_RES" Type="Out" ValueType="Int" Value="@485" />
+      <Port Name="R_HYD_RES" Type="Out" ValueType="Int" Value="@486" />
+      <Port Name="OXY_LOW" Type="Out" ValueType="Int" Value="@487" />
+      <Port Name="ELEV_DISENG" Type="Out" ValueType="Int" Value="@488" />
+      <Port Name="VOID1" Type="Out" ValueType="Int" Value="@489" />
+      <Port Name="SEAT_NOT_ARMED" Type="Out" ValueType="Int" Value="@490" />
+      <Port Name="BLEED_AIR_LEAK" Type="Out" ValueType="Int" Value="@491" />
+      <Port Name="AIL_DISENG" Type="Out" ValueType="Int" Value="@492" />
+      <Port Name="L_AIL_TAB" Type="Out" ValueType="Int" Value="@493" />
+      <Port Name="R_AIL_TAB" Type="Out" ValueType="Int" Value="@494" />
+      <Port Name="SERVICE_AIR_HOT" Type="Out" ValueType="Int" Value="@495" />
+      <Port Name="PITCH_SAS" Type="Out" ValueType="Int" Value="@496" />
+      <Port Name="L_ENG_HOT" Type="Out" ValueType="Int" Value="@497" />
+      <Port Name="R_ENG_HOT" Type="Out" ValueType="Int" Value="@498" />
+      <Port Name="WINDSHIELD_HOT" Type="Out" ValueType="Int" Value="@499" />
+      <Port Name="YAW_SAS" Type="Out" ValueType="Int" Value="@500" />
+      <Port Name="L_ENG_OIL_PRESS" Type="Out" ValueType="Int" Value="@501" />
+      <Port Name="R_ENG_OIL_PRESS" Type="Out" ValueType="Int" Value="@502" />
+      <Port Name="CICU" Type="Out" ValueType="Int" Value="@503" />
+      <Port Name="GCAS" Type="Out" ValueType="Int" Value="@504" />
+      <Port Name="L_MAIN_PUMP" Type="Out" ValueType="Int" Value="@505" />
+      <Port Name="R_MAIN_PUMP" Type="Out" ValueType="Int" Value="@506" />
+      <Port Name="VOID2" Type="Out" ValueType="Int" Value="@507" />
+      <Port Name="LASTE" Type="Out" ValueType="Int" Value="@508" />
+      <Port Name="L_WING_PUMP" Type="Out" ValueType="Int" Value="@509" />
+      <Port Name="R_WING_PUMP" Type="Out" ValueType="Int" Value="@510" />
+      <Port Name="HARS" Type="Out" ValueType="Int" Value="@511" />
+      <Port Name="IFF_MODE_4" Type="Out" ValueType="Int" Value="@512" />
+      <Port Name="L_MAIN_FUEL_LOW" Type="Out" ValueType="Int" Value="@513" />
+      <Port Name="R_MAIN_FUEL_LOW" Type="Out" ValueType="Int" Value="@514" />
+      <Port Name="L_R_TKS_UNEQUAL" Type="Out" ValueType="Int" Value="@515" />
+      <Port Name="EAC" Type="Out" ValueType="Int" Value="@516" />
+      <Port Name="L_FUEL_PRESS" Type="Out" ValueType="Int" Value="@517" />
+      <Port Name="R_FUEL_PRESS" Type="Out" ValueType="Int" Value="@518" />
+      <Port Name="NAV" Type="Out" ValueType="Int" Value="@519" />
+      <Port Name="STALL_SYS" Type="Out" ValueType="Int" Value="@520" />
+      <Port Name="L_CONV" Type="Out" ValueType="Int" Value="@521" />
+      <Port Name="R_CONV" Type="Out" ValueType="Int" Value="@522" />
+      <Port Name="CADC" Type="Out" ValueType="Int" Value="@523" />
+      <Port Name="APU_GEN" Type="Out" ValueType="Int" Value="@524" />
+      <Port Name="L_GEN" Type="Out" ValueType="Int" Value="@525" />
+      <Port Name="R_GEN" Type="Out" ValueType="Int" Value="@526" />
+      <Port Name="INST_INV" Type="Out" ValueType="Int" Value="@527" />
+    </Node>
+    <Node Name="DCS A10C Light Signals">
+      <Port Name="AOA_INDEXER_HIGH" Type="Out" ValueType="Int" Value="@540" />
+      <Port Name="AOA_INDEXER_NORM" Type="Out" ValueType="Int" Value="@541" />
+      <Port Name="AOA_INDEXER_LOW" Type="Out" ValueType="Int" Value="@542" />
+      <Port Name="MASTER_WARNING_STUB" Type="Out" ValueType="Int" Value="@404" />
+      <Port Name="AIR_REFUEL_READY" Type="Out" ValueType="Int" Value="@730" />
+      <Port Name="AIR_REFUEL_LATCHED" Type="Out" ValueType="Int" Value="@731" />
+      <Port Name="AIR_REFUEL_DISCONNECT" Type="Out" ValueType="Int" Value="@732" />
+      <Port Name="L_ENG_FIRE" Type="Out" ValueType="Int" Value="@215" />
+      <Port Name="APU_FIRE" Type="Out" ValueType="Int" Value="@216" />
+      <Port Name="R_ENG_FIRE" Type="Out" ValueType="Int" Value="@217" />
+      <Port Name="GUN_READY" Type="Out" ValueType="Int" Value="@662" />
+      <Port Name="NOSEWHEEL_STEERING" Type="Out" ValueType="Int" Value="@663" />
+      <Port Name="MARKER_BEACON" Type="Out" ValueType="Int" Value="@664" />
+      <Port Name="CANOPY_UNLOCKED" Type="Out" ValueType="Int" Value="@665" />
+      <Port Name="LANDING_GEAR_N_SAFE" Type="Out" ValueType="Int" Value="@659" />
+      <Port Name="LANDING_GEAR_L_SAFE" Type="Out" ValueType="Int" Value="@660" />
+      <Port Name="LANDING_GEAR_R_SAFE" Type="Out" ValueType="Int" Value="@661" />
+      <Port Name="HANDLE_GEAR_WARNING" Type="Out" ValueType="Int" Value="@737" />
+      <Port Name="TAKE_OFF_TRIM" Type="Out" ValueType="Int" Value="@191" />
+      <Port Name="L_AILERON_EMER_DISENGAGE" Type="Out" ValueType="Int" Value="@178" />
+      <Port Name="R_AILERON_EMER_DISENGAGE" Type="Out" ValueType="Int" Value="@179" />
+      <Port Name="L_ELEVATOR_EMER_DISENGAGE" Type="Out" ValueType="Int" Value="@181" />
+      <Port Name="R_ELEVATOR_EMER_DISENGAGE" Type="Out" ValueType="Int" Value="@182" />
+      <Port Name="HARS" Type="Out" ValueType="Int" Value="@606" />
+      <Port Name="EGI" Type="Out" ValueType="Int" Value="@608" />
+      <Port Name="TISL" Type="Out" ValueType="Int" Value="@610" />
+      <Port Name="ILS" Type="Out" ValueType="Int" Value="@618" />
+      <Port Name="TCN" Type="Out" ValueType="Int" Value="@616" />
+      <Port Name="ANCHR" Type="Out" ValueType="Int" Value="@614" />
+      <Port Name="STRPT" Type="Out" ValueType="Int" Value="@612" />
+      <Port Name="Breath" Type="Out" ValueType="Int" Value="@600" />
+      <Port Name="TACAN_Test_Light" Type="Out" ValueType="Int" Value="@260" />
+      <Port Name="UHF" Type="Out" ValueType="Int" Value="@619" />
+      <Port Name="FM" Type="Out" ValueType="Int" Value="@620" />
+    </Node>
+    <Node Name="DCS A10C Light System">
+      <Port Name="CautionLights" Type="Out" ValueType="Float" Value="@905" />
+      <Port Name="AppIndxrAndAARLights" Type="Out" ValueType="Float" Value="@906" />
+      <Port Name="ConsoleLight" Type="Out" ValueType="Float" Value="@800" />
+      <Port Name="EngineInstrumentLights" Type="Out" ValueType="Float" Value="@801" />
+      <Port Name="FlightInstrumentsLights" Type="Out" ValueType="Float" Value="@802" />
+      <Port Name="AuxiliaryInstrumentsLights" Type="Out" ValueType="Float" Value="@803" />
+      <Port Name="AccelerometerAndCompassLight" Type="Out" ValueType="Float" Value="@804" />
+      <Port Name="Ambient" Type="Out" ValueType="Float" Value="@805" />
+      <Port Name="FloodLight" Type="Out" ValueType="Float" Value="@806" />
+      <Port Name="FloodLight_Thunderstorm" Type="Out" ValueType="Float" Value="@807" />
+    </Node>
+    <Node Name="DCS F/A18C UFC">
+      <Port Name="Option1" Type="Out" ValueType="String" Value="@3001" />
+      <Port Name="Option2" Type="Out" ValueType="String" Value="@3002" />
+      <Port Name="Option3" Type="Out" ValueType="String" Value="@3003" />
+      <Port Name="Option4" Type="Out" ValueType="String" Value="@3004" />
+      <Port Name="Option5" Type="Out" ValueType="String" Value="@3005" />
+      <Port Name="ScratchPadString" Type="Out" ValueType="String" Value="@3006" />
+      <Port Name="ScratchPadNumber" Type="Out" ValueType="String" Value="@3007" />
+      <Port Name="Comm1" Type="Out" ValueType="String" Value="@3008" />
+      <Port Name="Comm2" Type="Out" ValueType="String" Value="@3009" />
+    </Node>
+  </Module>
+  <Settings />
+</Plugin>

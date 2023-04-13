@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Plugin>
+  <Module>
+    <Node Name="Test SerialPort">
+      <Port Name="Test Int" Type="In" ValueType="Int" />
+      <Port Name="Test Float" Type="In" ValueType="Float" />
+      <Port Name="Test String" Type="In" ValueType="String" Length="12" />
+    </Node>
+  </Module>
+  <Settings />
+</Plugin>

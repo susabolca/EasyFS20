@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UI>
+  <LayoutControl ID="Main" _OrientationType="Vertical" LayoutMaxHeight="112">
+    <LayoutControl _OrientationType="Vertical"  >
+      <Placeholder LayoutPlaceholder="2"></Placeholder>
+      <SwitchButton ID = "TestSB" _Text="开关按钮演示" RadioStyle="true" LayoutPlaceholder="8" Localization="false"></SwitchButton>
+      <Placeholder LayoutPlaceholder="2"></Placeholder>
+    </LayoutControl>
+    <LayoutControl _OrientationType="Horizontal" >
+      <TrackBar ID = "TestTB" _Min="0" _Max="255" ></TrackBar>
+    </LayoutControl>
+    <LayoutControl _OrientationType="Horizontal" >
+      <Button ID="TestBtn" _Text ="更新String" Type="NoLocalization" />
+    </LayoutControl>
+    <LayoutControl _OrientationType="Horizontal" >
+      <TextLable ID = "TestTL" _Text="输出String" Color="1,1,1,1" MaxHeight="32" Frame="true" Localization="false"
+              TextAlignment="Center"  FontWeight="Normal" FontStyle="Normal"></TextLable>
+      <TextEditor ID = "TestTE" _Text="01234" LayoutPlaceholder="2" ></TextEditor>
+    </LayoutControl>
+  </LayoutControl>
+</UI>
