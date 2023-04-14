@@ -1,5 +1,5 @@
 <EasyJoy>
-  <UsbSetting Name="EasyJoy32 v4 b" VID="12596" PID="12600" BackLightBrightness="19" ColorOrder="2" HC165="True" maxADC="0" maxHall="0" maxPWM="0" maxPin="144" IdleColor="ColorRainbow" DynamicSpeed="255" />
+  <UsbSetting Name="EasyJoy32 v4 b" VID="12596" PID="12600" BackLightBrightness="19" ColorOrder="2" HC165="True" maxADC="0" maxHall="0" maxPWM="0" maxPin="144" IdleColor="ColorRGBWave" DynamicSpeed="0" />
   <AxisID ID0="48" ID1="49" ID2="50" ID3="51" ID4="52" ID5="53" ID6="54" ID7="55" />
   <AdcList>
     <Adc0 maxCC="5" maxCY="5" maxPC="10" />

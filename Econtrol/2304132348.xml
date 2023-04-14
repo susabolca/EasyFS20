@@ -1,5 +1,5 @@
 <Save>
-  <Offset X="-34.99448" Y="-2104.288" Scaling="0.65" />
+  <Offset X="-141.9945" Y="-1870.288" Scaling="0.65" />
   <nodeList>
     <nl-A10cILS>
       <SaveNode0 sourceOffsetX="310" sourceOffsetY="0">
@@ -3673,12 +3673,8 @@
           <SavePort22 />
           <SavePort23 />
           <SavePort24 />
-          <SavePort25>
-            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA057 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="57" />
-          </SavePort25>
-          <SavePort26>
-            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA061 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="61" />
-          </SavePort26>
+          <SavePort25 />
+          <SavePort26 />
           <SavePort27 />
           <SavePort28>
             <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA05 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="5" />
@@ -3735,9 +3731,7 @@
           <SavePort58 />
           <SavePort59 />
           <SavePort60 />
-          <SavePort61>
-            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA059 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="59" />
-          </SavePort61>
+          <SavePort61 />
           <SavePort62 />
           <SavePort63 />
           <SavePort64 />
@@ -3802,9 +3796,7 @@
             <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA038 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="38" />
           </SavePort4>
           <SavePort5 />
-          <SavePort6>
-            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA046 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="46" />
-          </SavePort6>
+          <SavePort6 />
           <SavePort7 />
           <SavePort8 />
           <SavePort9 />
@@ -5075,7 +5067,7 @@
   <pluginList>
     <pl-048ba9d9-e987-43d4-a428-296e9dd8d267 Open="True" Auto="False" />
     <pl-FD3C1671-5706-4DF3-9048-A71ED21D7FA8 Open="True" Auto="False" />
-    <pl-CD26E39B-767D-410E-AFAB-482ACFCB94BA Open="False" Auto="True" />
+    <pl-CD26E39B-767D-410E-AFAB-482ACFCB94BA Open="True" Auto="True" />
     <pl-EasyXInput Open="True" Auto="False" />
   </pluginList>
   <pluginNodeList>

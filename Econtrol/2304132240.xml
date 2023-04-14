@@ -1,5 +1,5 @@
 <Save>
-  <Offset X="-34.99448" Y="-2104.288" Scaling="0.65" />
+  <Offset X="-60.10814" Y="-2545.226" Scaling="0.65" />
   <nodeList>
     <nl-A10cILS>
       <SaveNode0 sourceOffsetX="310" sourceOffsetY="0">
@@ -2804,7 +2804,7 @@
       </SaveNode15>
     </nl-FastEncoder5>
     <nl-FS2020>
-      <SaveNode0 sourceOffsetX="1266.093" sourceOffsetY="2958.096">
+      <SaveNode0 sourceOffsetX="449.1697" sourceOffsetY="3871.942">
         <portList>
           <SavePort0>
             <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA01 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="1" />
@@ -2822,17 +2822,11 @@
           <SavePort7 />
           <SavePort8 />
           <SavePort9 />
-          <SavePort10>
-            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA054 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="54" />
-          </SavePort10>
+          <SavePort10 />
           <SavePort11 />
-          <SavePort12>
-            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA055 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="55" />
-          </SavePort12>
+          <SavePort12 />
           <SavePort13 />
-          <SavePort14>
-            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA056 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="56" />
-          </SavePort14>
+          <SavePort14 />
           <SavePort15 />
           <SavePort16>
             <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA013 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="13" />
@@ -3499,7 +3493,7 @@
       </SaveNode0>
     </nl-FD3C1671-5706-4DF3-9048-A71ED21D7FA8>
     <nl-CD26E39B-767D-410E-AFAB-482ACFCB94BA>
-      <SaveNode0 sourceOffsetX="1690.764" sourceOffsetY="2970.596">
+      <SaveNode0 sourceOffsetX="1441.533" sourceOffsetY="3115.212">
         <portList>
           <SavePort0 />
           <SavePort1 />
@@ -3535,22 +3529,16 @@
           </SavePort29>
           <SavePort30 />
           <SavePort31>
-            <sp-FS2020COM033 PluginID="FS2020COM" NodeIndex="0" PortIndex="33" />
+            <sp-RadioCom02 PluginID="RadioCom" NodeIndex="0" PortIndex="2" />
           </SavePort31>
           <SavePort32 />
-          <SavePort33>
-            <sp-FS2020COM034 PluginID="FS2020COM" NodeIndex="0" PortIndex="34" />
-          </SavePort33>
+          <SavePort33 />
           <SavePort34 />
           <SavePort35 />
           <SavePort36 />
-          <SavePort37>
-            <sp-FS2020COM036 PluginID="FS2020COM" NodeIndex="0" PortIndex="36" />
-          </SavePort37>
+          <SavePort37 />
           <SavePort38 />
-          <SavePort39>
-            <sp-FS2020COM037 PluginID="FS2020COM" NodeIndex="0" PortIndex="37" />
-          </SavePort39>
+          <SavePort39 />
           <SavePort40 />
           <SavePort41 />
           <SavePort42 />
@@ -3604,35 +3592,17 @@
       </SaveNode0>
     </nl-EasyXInput>
     <nl-05D8FF383737484257076930>
-      <SaveNode0 sourceOffsetX="775.4462" sourceOffsetY="2958.721">
+      <SaveNode0 sourceOffsetX="1061.6" sourceOffsetY="2934.106">
         <portList>
-          <SavePort0>
-            <sp-FS202001 PluginID="FS2020" NodeIndex="0" PortIndex="1" />
-          </SavePort0>
-          <SavePort1>
-            <sp-FS2020017 PluginID="FS2020" NodeIndex="0" PortIndex="17" />
-          </SavePort1>
-          <SavePort2>
-            <sp-FS2020011 PluginID="FS2020" NodeIndex="0" PortIndex="11" />
-          </SavePort2>
-          <SavePort3>
-            <sp-FS202003 PluginID="FS2020" NodeIndex="0" PortIndex="3" />
-          </SavePort3>
-          <SavePort4>
-            <sp-FS2020019 PluginID="FS2020" NodeIndex="0" PortIndex="19" />
-          </SavePort4>
-          <SavePort5>
-            <sp-FS2020013 PluginID="FS2020" NodeIndex="0" PortIndex="13" />
-          </SavePort5>
-          <SavePort6>
-            <sp-FS202005 PluginID="FS2020" NodeIndex="0" PortIndex="5" />
-          </SavePort6>
-          <SavePort7>
-            <sp-FS2020021 PluginID="FS2020" NodeIndex="0" PortIndex="21" />
-          </SavePort7>
-          <SavePort8>
-            <sp-FS2020015 PluginID="FS2020" NodeIndex="0" PortIndex="15" />
-          </SavePort8>
+          <SavePort0 />
+          <SavePort1 />
+          <SavePort2 />
+          <SavePort3 />
+          <SavePort4 />
+          <SavePort5 />
+          <SavePort6 />
+          <SavePort7 />
+          <SavePort8 />
           <SavePort9>
             <sp-FS2020COM052 PluginID="FS2020COM" NodeIndex="0" PortIndex="52" />
           </SavePort9>
@@ -3648,71 +3618,31 @@
           <SavePort13>
             <sp-FS2020COM048 PluginID="FS2020COM" NodeIndex="0" PortIndex="48" />
           </SavePort13>
-          <SavePort14>
-            <sp-FS2020LIGHT03 PluginID="FS2020LIGHT" NodeIndex="0" PortIndex="3" />
-          </SavePort14>
-          <SavePort15>
-            <sp-FS2020LIGHT05 PluginID="FS2020LIGHT" NodeIndex="0" PortIndex="5" />
-          </SavePort15>
-          <SavePort16>
-            <sp-FS2020LIGHT07 PluginID="FS2020LIGHT" NodeIndex="0" PortIndex="7" />
-          </SavePort16>
-          <SavePort17>
-            <sp-FS2020LIGHT09 PluginID="FS2020LIGHT" NodeIndex="0" PortIndex="9" />
-          </SavePort17>
-          <SavePort18>
-            <sp-FS2020LIGHT011 PluginID="FS2020LIGHT" NodeIndex="0" PortIndex="11" />
-          </SavePort18>
-          <SavePort19>
-            <sp-FS2020LIGHT013 PluginID="FS2020LIGHT" NodeIndex="0" PortIndex="13" />
-          </SavePort19>
-          <SavePort20>
-            <sp-FS2020LIGHT015 PluginID="FS2020LIGHT" NodeIndex="0" PortIndex="15" />
-          </SavePort20>
+          <SavePort14 />
+          <SavePort15 />
+          <SavePort16 />
+          <SavePort17 />
+          <SavePort18 />
+          <SavePort19 />
+          <SavePort20 />
           <SavePort21 />
           <SavePort22 />
           <SavePort23 />
           <SavePort24 />
-          <SavePort25>
-            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA057 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="57" />
-          </SavePort25>
-          <SavePort26>
-            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA061 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="61" />
-          </SavePort26>
+          <SavePort25 />
+          <SavePort26 />
           <SavePort27 />
-          <SavePort28>
-            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA05 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="5" />
-          </SavePort28>
-          <SavePort29>
-            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA012 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="12" />
-          </SavePort29>
-          <SavePort30>
-            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA020 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="20" />
-          </SavePort30>
-          <SavePort31>
-            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA026 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="26" />
-          </SavePort31>
-          <SavePort32>
-            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA021 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="21" />
-          </SavePort32>
-          <SavePort33>
-            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA024 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="24" />
-          </SavePort33>
-          <SavePort34>
-            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA09 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="9" />
-          </SavePort34>
-          <SavePort35>
-            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA017 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="17" />
-          </SavePort35>
-          <SavePort36>
-            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA025 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="25" />
-          </SavePort36>
-          <SavePort37>
-            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA027 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="27" />
-          </SavePort37>
-          <SavePort38>
-            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA022 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="22" />
-          </SavePort38>
+          <SavePort28 />
+          <SavePort29 />
+          <SavePort30 />
+          <SavePort31 />
+          <SavePort32 />
+          <SavePort33 />
+          <SavePort34 />
+          <SavePort35 />
+          <SavePort36 />
+          <SavePort37 />
+          <SavePort38 />
           <SavePort39 />
           <SavePort40 />
           <SavePort41 />
@@ -3735,9 +3665,7 @@
           <SavePort58 />
           <SavePort59 />
           <SavePort60 />
-          <SavePort61>
-            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA059 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="59" />
-          </SavePort61>
+          <SavePort61 />
           <SavePort62 />
           <SavePort63 />
           <SavePort64 />
@@ -3786,25 +3714,15 @@
       </SaveNode0>
     </nl-05D8FF383737484257076930>
     <nl-FS2020COM>
-      <SaveNode0 sourceOffsetX="1219.412" sourceOffsetY="3714.059">
+      <SaveNode0 sourceOffsetX="1562.489" sourceOffsetY="4346.366">
         <portList>
-          <SavePort0>
-            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA030 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="30" />
-          </SavePort0>
-          <SavePort1>
-            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA032 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="32" />
-          </SavePort1>
+          <SavePort0 />
+          <SavePort1 />
           <SavePort2 />
-          <SavePort3>
-            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA036 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="36" />
-          </SavePort3>
-          <SavePort4>
-            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA038 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="38" />
-          </SavePort4>
+          <SavePort3 />
+          <SavePort4 />
           <SavePort5 />
-          <SavePort6>
-            <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA046 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="46" />
-          </SavePort6>
+          <SavePort6 />
           <SavePort7 />
           <SavePort8 />
           <SavePort9 />
@@ -4734,7 +4652,7 @@
       </SaveNode15>
     </nl-FS2020COM>
     <nl-FS2020LIGHT>
-      <SaveNode0 sourceOffsetX="467.6072" sourceOffsetY="3240.279">
+      <SaveNode0 sourceOffsetX="607.6073" sourceOffsetY="4194.124">
         <portList>
           <SavePort0>
             <sp-CD26E39B-767D-410E-AFAB-482ACFCB94BA028 PluginID="CD26E39B-767D-410E-AFAB-482ACFCB94BA" NodeIndex="0" PortIndex="28" />
@@ -5437,7 +5355,7 @@
       <customNodeOpen15 Open="False" />
     </cn-EncoderSlow>
     <cn-FastEncoder10>
-      <customNodeOpen0 Open="False" />
+      <customNodeOpen0 Open="True" />
       <customNodeOpen1 Open="False" />
       <customNodeOpen2 Open="False" />
       <customNodeOpen3 Open="False" />
@@ -5509,7 +5427,7 @@
       <customNodeOpen15 Open="False" />
     </cn-FS2020>
     <cn-RadioCom>
-      <customNodeOpen0 Open="False" />
+      <customNodeOpen0 Open="True" />
       <customNodeOpen1 Open="False" />
       <customNodeOpen2 Open="False" />
       <customNodeOpen3 Open="False" />

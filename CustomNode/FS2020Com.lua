@@ -3,8 +3,9 @@ function Info() return 'FS2020模拟器通讯模块' end
 
 -- 返回 bcd 编码
 function BcdEncode(v)
-    num = math.ceil(v) % 10000
+    num = math.ceil(math.ceil(v*100)) % 10000
     bcd = tonumber(string.format("%d", num), 16)
+    print(string.format("%.3f : %x", v, bcd))
     return bcd
 end
 
@@ -24,23 +25,25 @@ function Max7219B(str_in)
         0x00, 0x7e, 0x30, 0x6d, 0x79, 0x33, 0x5b, 0x5f, 0x70, 0x7f, 0x7b,
         0x01, 0x08, 0x15,
     }
-    local TubeSeg2 = {  -- with dot
-        0x80, 0xfe, 0xb0, 0xed, 0xf9, 0xb3, 0xdb, 0xdf, 0xf0, 0xff, 0xfb,
-        0x81, 0xc0, 0x95,
-    }
-    local array = {}
+    local dotSeg = 0x80
+    local array = {0, 0, 0, 0, 0, 0, 0, 0}
+    local valDot = 0
     local n = 1
-    for i = 1, string.len(str_in) do
+    local str_len = string.len(str_in)
+    for i = string.len(str_in), 1, -1 do
         local c = string.sub(str_in, i, i)
-        if (c ~= '.') then 
+        if (c == '.') then
+            valDot = dotSeg
+        else
             local seg = TubeSeg[1] 
             for j = 1, #CharTbl do
                 if (c == CharTbl[j]) then
-                    seg = TubeSeg[j]
+                    seg = TubeSeg[j] + valDot
                     break
                 end
             end
             array[n] = seg
+            valDot = 0
             n = n + 1
         end
     end
@@ -131,7 +134,7 @@ end
 Radio = {}
 
 -- 创建一个 Radio 对象
-function Radio:new(name, freq_low, freq_high, freq_step, port_index)
+function Radio:new(name, freq_low, freq_high, freq_step, port_index, port_out)
     local o = {}
     setmetatable(o, self)
     self.__index = self
@@ -142,7 +145,7 @@ function Radio:new(name, freq_low, freq_high, freq_step, port_index)
     o._freq_tmp = 0
     o._freq = freq_low 
     o._in_port = port_index
-    print(name)
+    o._out_port = port_out
     return o 
 end
 
@@ -172,23 +175,33 @@ function Radio:update(portList)
     end
 end
 
--- Show digital freq
-function Radio:show()
-    local out = self._name 
-    if (self._freq_tmp == 0) then
-        out = out .. " " .. string.format('%.3f', self._freq)
-    else
-        out = out .. ". " .. string.format('%.3f', self._freq_tmp)
-    end
-    return out 
+-- swap 输出
+function Radio:swap(portList)
+    local f = self._freq_tmp 
+    f = math.min(f, self._freq_high)
+    f = math.max(f, self._freq_low)
+    portList[self._out_port] = BcdEncode(f)
 end
 
-RadioTable = {Radio:new('1', 118.000, 135.975, 0.025, 1), 
-              Radio:new('2', 118.000, 135.975, 0.025, 2), 
-              Radio:new('3', 118.000, 135.975, 0.025, 3),
-              Radio:new('n1', 108.000, 117.95, 0.050, 4),
-              Radio:new('n2', 108.000, 117.95, 0.050, 5)
-            }
+-- Show digital freq
+function Radio:show()
+    local out
+    local c = string.sub(self._name, 1, 1)
+    if (c == 'n') then
+        if (self._freq_tmp == 0) then
+            out = string.format('%2s %.2f', self._name, self._freq)
+        else
+            out = string.format('%2s. %.2f', self._name, self._freq_tmp)
+        end
+    else
+        if (self._freq_tmp == 0) then
+            out = string.format('%2s %.3f', self._name, self._freq)
+        else
+            out = string.format('%2s. %.3f', self._name, self._freq_tmp)
+        end
+    end
+    return out
+end
 
 -- Tunner 调频器
 Tuner = {}
@@ -226,7 +239,7 @@ function Tuner:update(portList)
     
     local btn = self._button_swap:onKeyPress(portList)
     if (btn == 1) then
-        radio:swap()
+        radio:swap(portList)
         return radio:show()
     end
     return nil 
@@ -313,20 +326,25 @@ function PortList()
     return portTable
 end
 
-
-btnCom1Mode = Button:new(14)
-btnCom1Swap = Button:new(15)
-btnEncoder1 = BtnEncoder:new(12, 13, 1)
-btnEncoder2 = BtnEncoder:new(16, 17)
+-- 5 Radios
+RadioTable = {Radio:new('1', 118.000, 135.975, 0.050, 1, 34), 
+              Radio:new('2', 118.000, 135.975, 0.050, 2, 35), 
+              Radio:new('3', 118.000, 135.975, 0.050, 3, 36),
+              Radio:new('n1', 108.000, 117.95, 0.050, 4, 37),
+              Radio:new('n2', 108.000, 117.95, 0.050, 5, 38)
+            }
 
 -- tuner1 = Tuner:new(1, BtnEncoder:new(12, 13, 1), Button:new(14), Button:new(15))
-tuner1 = Tuner:new(1, btnEncoder1, btnCom1Mode, btnCom1Swap)
+tuner1 = Tuner:new(1, BtnEncoder:new(12, 13, 1), Button:new(14), Button:new(15))
+tuner2 = Tuner:new(2, BtnEncoder:new(16, 17, 0), Button:new(18), Button:new(19))
+tuner3 = Tuner:new(4, BtnEncoder:new(20, 21, 0), Button:new(22), Button:new(23))
 
 -- 更新方法
 function Update(portTable)
     local portList = portTable['PortList']
+    local a
 
-    -- radio com 1
+    -- radio com in 
     for k,v in ipairs(RadioTable) 
     do
         --print(k, v)
@@ -334,14 +352,23 @@ function Update(portTable)
     end
 
     -- tuner 1
-    local a = tuner1:update(portList)
+    a = tuner1:update(portList)
     if (a ~= nil) then
         portList[49] = Max7219B(a)
     end
 
     -- radio 2
+    a = tuner2:update(portList)
+    if (a ~= nil) then
+        portList[50] = Max7219B(a)
+    end
 
     -- radio 3
+    a = tuner3:update(portList)
+    if (a ~= nil) then
+        portList[51] = Max7219B(a)
+    end
+
 
     return portTable
 end
